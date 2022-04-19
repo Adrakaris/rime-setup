@@ -1,0 +1,11 @@
+_other/
+build/
+*.userdb/
+
+default*
+installation.yaml
+key_bindings.yaml
+punctuation.yaml
+symbols.yaml 
+user.yaml
+weasel.custom.yaml 

@@ -1,0 +1,135 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: wubi86go-ext
+  name: "谷歌五笔86增加"
+  version: "0.1"
+  author:
+    - 发明人 王永民先生
+  description: |
+    五笔字型86版
+    码表源自 google 云输入法
+  dependencies:
+    - pinyin123
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - affix_segmentor@pinyin_segmentor
+    - affix_segmentor@wubi_comment_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator@pinyin
+    - table_translator
+    # - table_translator@words
+  filters:
+    - reverse_lookup_filter@wubi_reverse_lookup
+    # - reverse_lookup_filter@wubi_words_reverse_lookup
+    - reverse_lookup_filter@pinyin_reverse_lookup
+
+speller:
+  delimiter: " ;'"
+  max_code_length: 4
+  algebra:
+    - derive/^(...).$/$1z/
+    - derive/^(..).(.*)$/$1z$2/
+    - derive/^(.).(.*)$/$1z$2/
+    - derive/^.(.*)$/z$1/
+#  auto_select: true
+
+pinyin_segmentor:
+  tag: pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  closing_tips: 〔五笔〕
+  extra_tags:
+    - wubi_comment
+
+wubi_comment_segmentor:
+  prefix: "zzzz"
+  suffix: "'"
+  tips: 〔查〕
+  extra_tags:
+    - wubi_comment
+
+translator:
+  dictionary: wubi86go-ext
+  enable_user_dict: true
+  max_phrase_length: 4
+  disable_user_dict_for_patterns:
+    - "^.*z.*$"
+
+# words:
+#   dictionary: wubi86gow
+#   enable_user_dict: true
+#   max_phrase_length: 4
+#   disable_user_dict_for_patterns:
+#     - "^.*z.*$"
+
+pinyin:
+  tag: pinyin
+  dictionary: pinyin123
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]+[a-z]*|[a-z]+)$"
+    pinyin: "^`[a-z]*'?$"
+    wubi_comment: "^[a-z]*z[a-z]*$"
+    pinyin_comment: "^[a-y]?[a-y]?[a-y]?[a-y]?$"
+
+wubi_reverse_lookup:
+  tags: [ wubi_comment ]
+  dictionary: wubi86go-ext
+  comment_format:
+    - xform/^/ /
+
+# wubi_words_reverse_lookup:
+  # tags: [ wubi_comment ]
+  # dictionary: wubi86gow
+  # comment_format:
+  #   - xform/^/ /
+
+pinyin_reverse_lookup:
+  tags: [ pinyin_comment ]
+  dictionary: pinyin123
+  comment_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - xform/^/ (/
+    - xform/$/)
