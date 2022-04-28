@@ -1,6 +1,7 @@
 _other/
 build/
 *.userdb/
+sync/
 
 default*
 installation.yaml
@@ -9,3 +10,4 @@ punctuation.yaml
 symbols.yaml 
 user.yaml
 weasel.custom.yaml 
+.place_holder
