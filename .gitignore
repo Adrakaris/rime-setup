@@ -4,6 +4,7 @@ build/
 sync/
 .vscode/
 backup/
+*.userdb.old/
 
 default*
 installation.yaml
@@ -13,3 +14,4 @@ symbols.yaml
 user.yaml
 weasel.custom.yaml 
 .place_holder
+
