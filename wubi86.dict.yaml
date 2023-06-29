@@ -2442,6 +2442,7 @@ encoder:
 残	gqg	76800000
 琻	gqg	65400
 歹	gqi	7220000
+珧	gqi	208000
 𣦶	gqi	0
 列	gqj	952000000
 殒	gqk	2080000
@@ -2581,6 +2582,8 @@ encoder:
 𣱱	hii	0
 瞠	hip	1030000
 眺	hiq	5420000
+眺	hqii	5420000
+眺	hqi	5420000
 步	hir	245000000
 眇	hit	627000
 尗	hiu	224000
@@ -2811,6 +2814,7 @@ encoder:
 水	iii	752000000
 淌	iim	5450000
 洮	iiq	1690000
+洮	iqi	1690000
 沙	iit	108000000
 沝	iiy	74100
 𣲙	iiy	0
@@ -2913,6 +2917,7 @@ encoder:
 沟	iqc	26500000
 淆	iqd	425000
 鼗	iqf	825000
+鼗	qif	825000
 𨥗	iqf	0
 淦	iqg	2290000
 泺	iqi	592000
@@ -2921,6 +2926,7 @@ encoder:
 涣	iqm	820000
 泡	iqn	98200000
 逃	iqp	56200000
+逃	qip	56200000
 淘	iqr	22900000
 泖	iqt	243000
 兆	iqv	34100000
@@ -3425,6 +3431,7 @@ encoder:
 趾	khh	3810000
 𠮝	khh	0
 跳	khi	321000000
+跳	khq	321000000
 踢	khj	42200000
 中	khk	2720000000
 盅	khl	4930000
@@ -4766,6 +4773,7 @@ encoder:
 罕	pwf	7510000
 窒	pwg	3540000
 窕	pwi	1240000
+窕	pwq	1240000
 窠	pwj	982000
 窜	pwk	12100000
 穷	pwl	36600000
@@ -4929,11 +4937,13 @@ encoder:
 钋	qhy	275000
 销	qie	99000000
 玺	qig	3130000
-乐	qii	200000000
+兆	qii	34100000
+乐	qii	20000000
 锁	qim	83600000
 铴	qin	82200
 迩	qip	1490000
 铫	qiq	144000
+铫	qqi	144000
 钞	qit	7700000
 尔	qiu	175000000
 淾	qiu	26700
@@ -4943,7 +4953,7 @@ encoder:
 郇	qjb	582000
 铿	qjc	624000
 旬	qjd	29200000
-象	qje	191000000
+象	qke	191000000
 锂	qjf	23100000
 鈤	qjg	555000
 钽	qjg	1300000
@@ -5326,6 +5336,8 @@ encoder:
 朱	rii	90000000
 撑	rip	24900000
 挑	riq	60700000
+挑	rqi	60700000
+挑	rqiy	60700000
 抄	rit	25100000
 泉	riu	69800000
 𡿦	riu	0
@@ -5664,6 +5676,7 @@ encoder:
 桫	sii	581000
 樘	sip	571000
 桃	siq	46100000
+桃	sqi	46100000
 杪	sit	343000
 𣏶	siu	0
 𣳳	siu	0
@@ -5752,7 +5765,7 @@ encoder:
 橹	sqg	1670000
 𣔋	sqg	0
 栎	sqi	683000
-橡	sqj	14600000
+橡	sqk	14600000
 枸	sqk	1550000
 攀	sqq	14300000
 柳	sqt	49200000
@@ -6659,6 +6672,7 @@ encoder:
 肃	vij	5110000
 逮	vip	9490000
 姚	viq	28200000
+姚	vqi	28200000
 妙	vit	59400000
 录	viu	47000000
 𣲂	viu	0
@@ -6927,6 +6941,7 @@ encoder:
 倘	wim	6140000
 偿	wip	8430000
 佻	wiq	725000
+佻	wqi	725000
 尒	wiu	463000
 氽	wiu	897000
 㲻	wiy	18800
@@ -7003,7 +7018,7 @@ encoder:
 釡	wqf	80600
 𠊄	wqg	0
 你	wqi	1490000000
-像	wqj	690000000
+像	wqk	690000000
 佝	wqk	226000
 侈	wqq	951000
 斧	wqr	9470000
@@ -7814,6 +7829,7 @@ encoder:
 工厂	aadg	38900000
 𠥤	aadg	0
 落荒而逃	aadi	722000
+落荒而逃	aadq	722000
 藄	aadi	28700
 䘌	aadj	4140
 𧏾	aadj	0
@@ -9169,6 +9185,7 @@ AA制	aarm	985000
 𩌆	afim	0
 蒜泥	afin	1130000
 鞉	afiq	34300
+鞉	afqi	34300
 𩊠	afiq	0
 䩖	afit	3640
 𩊮	afit	0
@@ -12482,7 +12499,7 @@ AA制	aarm	985000
 欧洲	aqiy	68000000
 𦳣	aqjd	0
 欧盟	aqje	19800000
-𦺨	aqje	0
+𦺨	aqke	0
 荀	aqjf	2400000
 𠛅	aqjh	0
 苅	aqjj	481000
@@ -14833,6 +14850,7 @@ AA制	aarm	985000
 随随便便	bbww	1810000
 子集	bbwy	607000
 子母	bbxg	1430000
+子母	bbxy	1430000
 子弹	bbxu	9180000
 隐隐约约	bbxx	1330000
 子房	bbyn	567000
@@ -15991,6 +16009,7 @@ AA制	aarm	985000
 出没	bmim	8380000
 出演	bmip	60900000
 出逃	bmiq	2140000
+出逃	bmqi	2140000
 出海	bmit	4040000
 𡭱	bmit	0
 出洋	bmiu	250000
@@ -17208,7 +17227,7 @@ AA制	aarm	985000
 取人之长	bwpt	109000
 队礼	bwpy	99700
 除外	bwqh	29100000
-险象	bwqj	667000
+险象	bwqk	667000
 除名	bwqk	1790000
 除夕	bwqt	3990000
 除皱	bwqv	1560000
@@ -17620,6 +17639,7 @@ AA制	aarm	985000
 预测	cbim	50200000
 预演	cbip	1060000
 预兆	cbiq	1860000
+预兆	cbqi	1860000
 柔润	cbiu	1730000
 驰誉	cbiw	176000
 预览	cbjt	43900000
@@ -18601,7 +18621,7 @@ AA制	aarm	985000
 鸡零狗碎	cfqd	226000
 对角	cfqe	1480000
 对外	cfqh	51500000
-对象	cfqj	70200000
+对象	cfqk	70200000
 对饮	cfqn	1020000
 𩢄	cfqn	0
 对儿	cfqt	1140000
@@ -18669,6 +18689,7 @@ AA制	aarm	985000
 𩧏	cfwy	0
 圣经	cfxc	15200000
 圣母	cfxg	2560000
+圣母	cfxy	2560000
 圣旨	cfxj	1400000
 桑塔纳	cfxm	7250000
 对比	cfxx	41800000
@@ -19696,6 +19717,7 @@ AA制	aarm	985000
 难消	cwii	892000
 难测	cwim	1270000
 难逃	cwiq	4120000
+难逃	cwqi	4120000
 难当	cwiv	1520000
 桑拿浴	cwiw	588000
 𩢜	cwiy	0
@@ -20624,7 +20646,7 @@ AA制	aarm	985000
 大解	ddqe	353000
 大鱼	ddqg	4040000
 大钞	ddqi	254000
-大象	ddqj	6000000
+大象	ddqk	6000000
 大名	ddqk	29000000
 𥔇	ddqk	0
 大饼	ddqn	1400000
@@ -21220,6 +21242,7 @@ AA制	aarm	985000
 𩮌	desh	0
 䰍	desi	4590
 胡桃	desi	3810000
+胡桃	desq	3810000
 𩮳	desi	0
 𩯖	desi	0
 𩭰	desj	0
@@ -21423,6 +21446,7 @@ AA制	aarm	985000
 压队	dfbw	18800
 奔驰	dfcb	16500000
 在劫难逃	dfci	383000
+在劫难逃	dfcq	383000
 𠩂	dfci	0
 奔驶	dfck	26200
 㕎	dfcl	4110
@@ -21540,7 +21564,8 @@ AA制	aarm	985000
 𣮦	dfin	0
 奔泻	dfip	207000
 夸耀	dfiq	650000
-奔逃	dfiq	1050000
+奔逃	dfiq	650000
+奔逃	dfqi	1050000
 奈	dfiu	24100000
 𠩼	dfiw	0
 奔流	dfiy	1500000
@@ -22300,6 +22325,7 @@ AA制	aarm	985000
 慼	dhin	236000
 在学	dhip	6530000
 在逃	dhiq	1360000
+在逃	dhqi	1360000
 存活	dhit	5900000
 戚	dhit	8860000
 𡘧	dhit	0
@@ -22682,6 +22708,7 @@ AA制	aarm	985000
 𨱵	diqn	0
 䎫	diqt	3600
 在逃犯	diqt	83200
+在逃犯	dqqt	83200
 𠩓	diqv	0
 𠩗	diqw	0
 𣢭	diqw	0
@@ -23867,7 +23894,7 @@ AA制	aarm	985000
 成色	dnqc	9320000
 盛销	dnqi	11900
 𡯌	dnqi	0
-万象	dnqj	8360000
+万象	dnqk	8360000
 成名	dnqk	9180000
 盛名	dnqk	5320000
 𡯿	dnqm	0
@@ -25964,6 +25991,7 @@ AA制	aarm	985000
 𣩸	dywx	0
 𥗭	dywy	0
 丈母	dyxg	1380000
+丈母	dyxy	1380000
 𥗯	dyxn	0
 碎纸	dyxq	7560000
 存亡绝续	dyxx	18000
@@ -26191,6 +26219,7 @@ AA制	aarm	985000
 服食	ebwy	1040000
 𨿚	ebwy	0
 乳母	ebxg	618000
+乳母	ebxy	618000
 孕育	ebyc	8240000
 乳剂	ebyj	983000
 乳房	ebyn	18300000
@@ -27226,6 +27255,8 @@ AA制	aarm	985000
 𣎲	eipo	0
 脳	eiqb	29000000
 朓	eiqn	160000
+朓	eqiy	160000
+脁	eqiy	59000
 胱	eiqn	1610000
 脁	eiqn	59000
 助学金	eiqq	2200000
@@ -28523,6 +28554,7 @@ AA制	aarm	985000
 脱漏	euin	67900
 脱党	euip	225000
 脱逃	euiq	551000
+脱逃	euqi	551000
 脱涩	euiv	29000
 乳状液	euiy	66100
 𦚝	euiy	0
@@ -28979,7 +29011,7 @@ AA制	aarm	985000
 𦠸	eyqe	0
 脏钱	eyqg	19200
 𦛥	eyqh	0
-脉象	eyqj	234000
+脉象	eyqk	234000
 用户名	eyqk	464000000
 脑勺	eyqy	77800
 𦝉	eyqy	0
@@ -30522,7 +30554,7 @@ AA制	aarm	985000
 封锁	ffqi	5690000
 𦾍	ffqi	0
 𧃆	ffqi	0
-卦象	ffqj	364000
+卦象	ffqk	364000
 𦻤	ffqj	0
 𩃾	ffqj	0
 𡌲	ffqk	0
@@ -31417,6 +31449,7 @@ AA制	aarm	985000
 超常	fhip	3090000
 走光	fhiq	20000000
 趒	fhiq	25400
+趒	fhqi	25400
 埗	fhit	967000
 赻	fhit	722000
 越洋	fhiu	1110000
@@ -32092,6 +32125,7 @@ AA制	aarm	985000
 未免	fiqk	4330000
 𩆎	fiql	0
 垗	fiqn	57200
+垗	fqiy	57200
 垙	fiqn	256000
 求饶	fiqn	1190000
 救济金	fiqq	788000
@@ -32648,6 +32682,7 @@ AA制	aarm	985000
 露水	fkii	2180000
 鼓掌	fkip	7280000
 吉兆	fkiq	1770000
+吉兆	fkqi	1770000
 喜酒	fkis	1270000
 地中海	fkit	9310000
 𣻅	fkit	0
@@ -33550,6 +33585,7 @@ AA制	aarm	985000
 𡏽	fnrg	0
 卖掉	fnrh	5340000
 专挑	fnri	334000
+专挑	fnrq	334000
 亏损	fnrk	17900000
 专制	fnrm	2730000
 场所	fnrn	43500000
@@ -33631,6 +33667,7 @@ AA制	aarm	985000
 𡒔	fnwy	0
 专线	fnxg	12800000
 声母	fnxg	779000
+声母	fnxy	779000
 声强	fnxk	148000
 地心引力	fnxl	495000
 声纳	fnxm	335000
@@ -33671,6 +33708,7 @@ AA制	aarm	985000
 𡓌	fobt	0
 𡏰	foca	0
 劫数难逃	foci	108000
+劫数难逃	focq	108000
 赭石	fodg	1560000
 𧹡	fodj	0
 𧹸	fodj	0
@@ -34298,6 +34336,7 @@ AA制	aarm	985000
 顽皮	fqhc	3430000
 无上	fqhh	3550000
 远眺	fqhi	2520000
+远眺	fqhq	2520000
 无眠	fqhn	2380000
 无涯	fqid	3980000
 无法	fqif	178000000
@@ -35162,6 +35201,7 @@ AA制	aarm	985000
 老鸨	ftxf	390000
 耋	ftxf	1410000
 老母	ftxg	3320000
+老母	ftxy	3320000
 考绩	ftxg	148000
 𦒼	ftxg	0
 𦒿	ftxh	0
@@ -35480,6 +35520,7 @@ AA制	aarm	985000
 𩆇	fuwv	0
 𨶄	fuwy	0
 丧母	fuxg	424000
+丧母	fuxy	424000
 增强	fuxk	72900000
 𡌡	fuxt	0
 博闻强记	fuxy	223000
@@ -36422,7 +36463,7 @@ AA制	aarm	985000
 𤨮	gaqh	0
 开销	gaqi	3030000
 㻸	gaqj	4360
-形象	gaqj	126000000
+形象	gaqk	126000000
 㻤	gaqk	5360
 开锅	gaqk	736000
 开锣	gaql	1070000
@@ -36989,7 +37030,7 @@ AA制	aarm	985000
 天然	gdqd	89600000
 珠三角	gdqe	13900000
 天外	gdqh	14100000
-天象	gdqj	1490000
+天象	gdqk	1490000
 𤥣	gdqn	0
 吞金	gdqq	241000
 天狗	gdqt	3260000
@@ -37226,7 +37267,7 @@ AA制	aarm	985000
 表针	geqf	180000
 䴖	geqg	19800
 静	geqh	98400000
-表象	geqj	2900000
+表象	geqk	2900000
 表链	geql	175000
 青铜	geqm	4900000
 青岛	geqy	71900000
@@ -38559,12 +38600,13 @@ AA制	aarm	985000
 不解	giqe	8540000
 还钱	giqg	1770000
 不外	giqh	4630000
-不象	giqj	10300000
+不象	giqk	10300000
 不免	giqk	7260000
 不够	giqk	54600000
 不负	giqm	17400000
 珖	giqn	525000
 珧	giqn	208000
+珧	gqiy	208000
 不多	giqq	51600000
 政治犯	giqt	536000
 不争	giqv	4390000
@@ -38857,6 +38899,7 @@ AA制	aarm	985000
 𧡍	gjiq	0
 更少	gjit	4030000
 死里逃生	gjit	801000
+死里逃生	gjqt	801000
 𢽬	gjit	0
 理当	gjiv	479000
 一日游	gjiy	5270000
@@ -39820,6 +39863,7 @@ AA制	aarm	985000
 两党	gmip	1130000
 𨒪	gmip	0
 瑞兆	gmiq	93700
+瑞兆	gmqi	93700
 𠒧	gmiq	0
 𧠵	gmiq	0
 𧢔	gmiq	0
@@ -39897,7 +39941,7 @@ AA制	aarm	985000
 刺针	gmqf	93700
 现钱	gmqg	182000
 现钞	gmqi	568000
-现象	gmqj	81900000
+现象	gmqk	81900000
 𠱩	gmqk	0
 一见钟情	gmqn	9810000
 现	gmqn	275000000
@@ -40500,6 +40544,7 @@ AA制	aarm	985000
 一家家	gppe	739000
 一定之规	gppf	88500
 不祥之兆	gppi	166000
+不祥之兆	gppq	166000
 一字之师	gppj	31500
 开裆裤	gppu	270000
 一家之言	gppy	1460000
@@ -40740,6 +40785,7 @@ AA制	aarm	985000
 列举	gqiw	6660000
 珎	gqiy	109000
 遨游	gqiy	2830000
+珧	gqiy	208000
 𣧖	gqiy	0
 残暴	gqja	1620000
 䶛	gqjb	3720
@@ -40747,7 +40793,7 @@ AA制	aarm	985000
 𩢾	gqjc	0
 𩧮	gqjc	0
 裂	gqje	32900000
-𤩪	gqje	0
+𤩪	gqke	0
 䴕	gqjg	18600
 珣	gqjg	1180000
 𣨾	gqjg	0
@@ -41537,6 +41583,7 @@ AA制	aarm	985000
 一盘棋	gtsa	770000
 麦杆	gtsf	233000
 夹竹桃	gtsi	548000
+夹竹桃	gtsq	548000
 平衡木	gtss	483000
 𣕰	gtsu	0
 不得要领	gtsw	341000
@@ -43958,6 +44005,7 @@ AA制	aarm	985000
 𥍄	hiqh	0
 𥋕	hiql	0
 眺	hiqn	5420000
+眺	hqiy	5420000
 𥆄	hiqn	0
 𣢰	hiqw	0
 𣢻	hiqw	0
@@ -44005,10 +44053,12 @@ AA制	aarm	985000
 𣦲	hiwu	0
 𣦳	hiwu	0
 叔母	hixg	1080000
+叔母	hixy	1080000
 频度	hiya	713000
 上海市	hiym	32600000
 步调	hiym	1540000
 眺望	hiyn	8340000
+眺望	hqyn	8340000
 频谱	hiyu	2020000
 督府	hiyw	125000
 频率	hiyx	29900000
@@ -44238,6 +44288,7 @@ AA制	aarm	985000
 战法	hkif	1930000
 点清	hkig	269000
 虎口逃生	hkit	21100
+虎口逃生	hkqt	21100
 点滴	hkiu	16500000
 点染	hkiv	372000
 点明	hkje	538000
@@ -45426,7 +45477,7 @@ AA制	aarm	985000
 占领军	hwpl	345000
 瞪视	hwpy	958000
 𥆉	hwqc	0
-具象	hwqj	1430000
+具象	hwqk	1430000
 具名	hwqk	720000
 步人后尘	hwri	25500
 㮂	hwsu	3880
@@ -46935,6 +46986,7 @@ AA制	aarm	985000
 污泥	ifin	1820000
 法学	ifip	17500000
 潜逃	ifiq	2070000
+潜逃	ifqi	2070000
 潮汐	ifiq	2620000
 澎湃	ifir	5320000
 海南省	ifit	7670000
@@ -47028,7 +47080,7 @@ AA制	aarm	985000
 溘然	ifqd	170000
 潮解	ifqe	162000
 法外	ifqh	1830000
-法象	ifqj	59800
+法象	ifqk	59800
 法名	ifqk	454000
 𤄐	ifql	0
 㳈	ifqn	4150
@@ -47201,6 +47253,7 @@ AA制	aarm	985000
 盓	igfl	668000
 清场	igfn	1110000
 逃不过	igfp	478000
+逃不过	qgfp	478000
 清远	igfq	4980000
 水来土掩	igfr	62800
 当事者	igft	5320000
@@ -48033,6 +48086,7 @@ AA制	aarm	985000
 水漫金山	iiqm	1350000
 水饺	iiqn	1070000
 洮	iiqn	1690000
+洮	iqiy	1690000
 洸	iiqn	1440000
 沙金	iiqq	299000
 水锈	iiqt	76700
@@ -48448,6 +48502,7 @@ AA制	aarm	985000
 涓涓	ikik	2380000
 澡堂	ikip	2380000
 溃逃	ikiq	495000
+溃逃	ikqi	495000
 油嘴滑舌	ikit	448000
 涓滴	ikiu	173000
 涡流	ikiy	742000
@@ -49601,6 +49656,7 @@ AA制	aarm	985000
 觉醒	ipsg	5100000
 泞	ipsh	75300
 水蜜桃	ipsi	1810000
+水蜜桃	ipqi	1810000
 党棍	ipsj	43200
 赏析	ipsr	16700000
 党禁	ipss	46400
@@ -49638,6 +49694,7 @@ AA制	aarm	985000
 沉稳	iptq	3490000
 沉箱	ipts	256000
 逃之夭夭	iptt	1010000
+逃之夭夭	qptt	1010000
 学科	iptu	66600000
 党委	iptv	29800000
 常委	iptv	46800000
@@ -49773,7 +49830,7 @@ AA制	aarm	985000
 深夜	ipyw	78700000
 常言	ipyy	1300000
 深广	ipyy	484000
-逃匿	iqaa	392000
+逃匿	qiaa	392000
 沉鱼落雁	iqad	1260000
 涣散	iqae	1190000
 㒯	iqaf	3990
@@ -49801,6 +49858,7 @@ AA制	aarm	985000
 光阴	iqbe	4200000
 汹	iqbh	321000
 逃出	iqbm	6260000
+逃出	qibm	6260000
 溜了	iqbn	2220000
 𣳸	iqbq	0
 𣶧	iqbt	0
@@ -49809,6 +49867,7 @@ AA制	aarm	985000
 沟通	iqce	69400000
 𣴊	iqcn	0
 逃难	iqcw	769000
+逃难	qicw	769000
 沒	iqcy	99400000
 沟	iqcy	26500000
 光碟	iqda	15700000
@@ -49818,10 +49877,12 @@ AA制	aarm	985000
 光大	iqdd	18600000
 淆	iqde	425000
 逃奔	iqdf	212000
+逃奔	iqdf	212000
 浠	iqdh	3510000
 𣽃	iqdk	0
 泡面	iqdm	1580000
 頫	iqdm	164000
+頫	qidm	164000
 𩒚	iqdm	0
 泡成	iqdn	106000
 沐猴而冠	iqdp	175000
@@ -49834,23 +49895,28 @@ AA制	aarm	985000
 澥	iqeh	105000
 光彩	iqes	9980000
 逃脱	iqeu	6100000
+逃脱	qieu	6100000
 渔霸	iqfa	14300
 鼗	iqfc	825000
+鼗	qifc	825000
 滥杀无辜	iqfd	130000
 𡋆	iqff	0
 逃走	iqfh	6950000
+逃走	qifh	6950000
 𣻁	iqfh	0
 渔鼓	iqfk	104000
 𠓒	iqfm	0
 游乐场	iqfn	3690000
 兆赫	iqfo	308000
+兆赫	qifo	308000
 逃过	iqfp	3700000
+逃过	qifp	3700000
 浑然无知	iqft	17300
 渔夫	iqfw	1940000
 𤄱	iqfw	0
 沟壕	iqfy	31500
-逃开	iqga	1130000
-逃到	iqgc	1600000
+逃开	qiga	1130000
+逃到	qigc	1600000
 浑然天成	iqgd	1110000
 光环	iqgg	5390000
 渔	iqgg	18700000
@@ -49860,6 +49926,7 @@ AA制	aarm	985000
 光束	iqgk	1920000
 光速	iqgk	3450000
 兆瓦	iqgn	535000
+兆瓦	qign	535000
 𤭈	iqgn	0
 浑然不知	iqgt	1140000
 浑然一体	iqgw	1140000
@@ -49874,6 +49941,7 @@ AA制	aarm	985000
 滑铁卢	iqhn	1270000
 沟壑	iqhp	1020000
 覜	iqhq	578000
+覜	qihq	578000
 耀眼	iqhv	9850000
 渔具	iqhw	2450000
 𠧞	iqhy	0
@@ -49893,6 +49961,7 @@ AA制	aarm	985000
 泡汤	iqin	2310000
 光学	iqip	29100000
 逃学	iqip	986000
+逃学	qiip	986000
 光辉	iqiq	10200000
 𠓉	iqiq	0
 治外法权	iqis	74500
@@ -49904,7 +49973,7 @@ AA制	aarm	985000
 𡭰	iqiy	0
 𣆥	iqjd	0
 光明	iqje	37100000
-潒	iqje	137000
+潒	iqke	137000
 𠒫	iqje	0
 沟里	iqjf	1500000
 𣆤	iqjf	0
@@ -49929,6 +49998,7 @@ AA制	aarm	985000
 泃	iqkg	110000
 洺	iqkg	302000
 逃跑	iqkh	8190000
+逃跑	qikh	8190000
 𠒦	iqkk	0
 𣻍	iqko	0
 𣾹	iqkp	0
@@ -49939,6 +50009,7 @@ AA制	aarm	985000
 𠓋	iqlf	0
 𣵦	iqlg	0
 逃回	iqlk	1250000
+逃回	qilk	1250000
 漠然置之	iqlp	41500
 沟堑	iqlr	14800
 光圈	iqlu	8070000
@@ -49946,7 +50017,7 @@ AA制	aarm	985000
 𣴂	iqmc	0
 涣	iqmd	820000
 渙	iqmd	195000
-兆周	iqmf	23400
+兆周	qimf	23400
 水色山光	iqmi	43900
 𡷀	iqmj	0
 渔网	iqmq	1020000
@@ -49956,6 +50027,7 @@ AA制	aarm	985000
 光导	iqnf	373000
 韑	iqnh	22100
 逃避	iqnk	19700000
+逃避	qink	19700000
 泡	iqnn	98200000
 𦒉	iqnr	0
 耀	iqny	33000000
@@ -49987,9 +50059,11 @@ AA制	aarm	985000
 浩然之气	iqpr	232000
 酒色之徒	iqpt	17000
 逃	iqpv	56200000
+逃	qipi	56200000
 𨒺	iqpv	0
 濥	iqpw	22400
 逃窜	iqpw	1050000
+逃窜	qipw	1050000
 𤃚	iqpw	0
 洶	iqqb	258000
 𠓓	iqqe	0
@@ -49999,11 +50073,13 @@ AA制	aarm	985000
 沽名钓誉	iqqi	427000
 𠓑	iqqj	0
 逃逸	iqqk	5400000
+逃逸	qiqk	5400000
 沉甸甸	iqql	1930000
 泡饭	iqqn	475000
 淘金	iqqq	6260000
 𤅺	iqqq	0
 逃犯	iqqt	1480000
+逃犯	qiqt	1480000
 滤色镜	iqqu	204000
 𦥿	iqqv	0
 𣾠	iqqw	0
@@ -50012,7 +50088,9 @@ AA制	aarm	985000
 渔捞	iqra	36200
 𩳁	iqrc	0
 逃遁	iqrf	413000
+逃遁	qirf	413000
 逃兵	iqrg	2250000
+逃兵	qirg	2250000
 𤾗	iqrg	0
 光年	iqrh	2630000
 㳷	iqrj	4590
@@ -50041,6 +50119,7 @@ AA制	aarm	985000
 渔船	iqte	3090000
 光靠	iqtf	2420000
 逃生	iqtg	6810000
+逃生	qitg	6810000
 𣴥	iqtg	0
 光复	iqtj	1490000
 渔利	iqtj	395000
@@ -50052,12 +50131,15 @@ AA制	aarm	985000
 淡然处之	iqtp	82300
 活色生香	iqtt	1240000
 逃税	iqtu	1140000
+逃税	qitu	1140000
 𤂲	iqtw	0
 光敏	iqtx	844000
 逃往	iqty	982000
+逃往	qity	982000
 𢼴	iqty	0
 光疗	iqub	183000
 兆头	iqud	953000
+兆头	qiud	953000
 光头	iqud	5010000
 𠒿	iqud	0
 汮	iqug	25700
@@ -50075,11 +50157,13 @@ AA制	aarm	985000
 泡妞	iqvn	4120000
 𪕗	iqvn	0
 逃婚	iqvq	1150000
+逃婚	qivq	1150000
 渔妇	iqvv	31300
 𣽌	iqvw	0
 渔翁	iqwc	1400000
 𠒡	iqwf	0
 逃命	iqwg	1970000
+逃命	qiwg	1970000
 盜	iqwl	9320000
 鴵	iqwo	21000
 𤈾	iqwo	0
@@ -50088,6 +50172,7 @@ AA制	aarm	985000
 𣒿	iqws	0
 光凭	iqwt	1410000
 兆位	iqwu	152000
+兆位	qiwu	152000
 小鸟依人	iqww	537000
 光华	iqwx	14000000
 㳄	iqwy	4330
@@ -50099,13 +50184,16 @@ AA制	aarm	985000
 光纤	iqxt	14400000
 光度	iqya	2630000
 逃离	iqyb	7080000
+逃离	qiyb	7080000
 𠓇	iqye	0
 渹	iqyg	91300
 瀏	iqyj	2570000
 逃课	iqyj	1760000
+逃课	qiyj	1760000
 溜	iqyl	32500000
 𠡑	iqyl	0
 逃亡	iqyn	9590000
+逃亡	qiyn	9590000
 𠓌	iqyo	0
 光亮	iqyp	6270000
 沟底	iqyq	306000
@@ -50503,6 +50591,7 @@ AA制	aarm	985000
 酒令	iswy	486000
 小本经营	isxa	418000
 酒母	isxg	73500
+酒母	isxy	73500
 𤄿	isxs	0
 湘乡	isxt	2350000
 酒席	isya	1950000
@@ -52507,6 +52596,7 @@ AA制	aarm	985000
 师出有名	jbdq	45700
 日出而作	jbdw	415000
 临阵脱逃	jbei	245000
+临阵脱逃	jbeq	245000
 最爱	jbep	65900000
 最坏	jbfg	2120000
 𧉳	jbfh	0
@@ -53225,7 +53315,7 @@ AA制	aarm	985000
 时鲜	jfqg	294000
 野外	jfqh	22700000
 𨤧	jfqi	0
-旱象	jfqj	56900
+旱象	jfqk	56900
 时钟	jfqk	8130000
 野兔	jfqk	715000
 蚖	jfqn	68900
@@ -53639,6 +53729,7 @@ AA制	aarm	985000
 鼂	jgxf	26000
 𣉓	jgxf	0
 师母	jgxg	275000
+师母	jgxy	275000
 𣅥	jgxg	0
 螦	jgxi	20400
 题旨	jgxj	182000
@@ -53873,6 +53964,7 @@ AA制	aarm	985000
 蟷	jipl	145000
 曭	jipo	32200
 晁	jiqb	2130000
+晁	jqiu	2130000
 晃	jiqb	24300000
 䖴	jiqn	3520
 晀	jiqn	28400
@@ -54233,6 +54325,7 @@ AA制	aarm	985000
 𧏧	jlwt	0
 曼谷	jlww	6620000
 螺母	jlxg	1670000
+螺母	jlxy	1670000
 螺	jlxi	14900000
 螺丝	jlxx	4490000
 曪	jlxy	211000
@@ -54816,10 +54909,10 @@ AA制	aarm	985000
 晚清	jqig	1640000
 易学	jqip	3250000
 𧉰	jqiy	0
-蟓	jqje	114000
+蟓	jqke	114000
 㫬	jqjg	3740
 䖲	jqjg	3500
-晩	jqjq	13900000
+晩	jqkq	13900000
 歇晌	jqjt	37700
 明争暗斗	jqju	762000
 晚归	jqjv	2530000
@@ -55366,7 +55459,7 @@ AA制	aarm	985000
 景德镇	jtqf	5630000
 监印	jtqg	24400
 𧔌	jtqi	0
-星象	jtqj	2290000
+星象	jtqk	2290000
 𧔾	jtqm	0
 𧐹	jtqq	0
 𧑇	jtqs	0
@@ -55390,6 +55483,7 @@ AA制	aarm	985000
 监票	jtsf	368000
 星相	jtsh	7030000
 蟠桃	jtsi	751000
+蟠桃	jtsq	751000
 监查	jtsj	24700000
 临机	jtsm	101000
 监禁	jtss	1630000
@@ -56161,7 +56255,7 @@ AA制	aarm	985000
 影视	jypy	114000000
 景色	jyqc	27000000
 影印	jyqg	3660000
-景象	jyqj	10800000
+景象	jyqk	10800000
 蛀蚀	jyqn	37600
 里应外合	jyqw	780000
 蚁	jyqy	4470000
@@ -57890,7 +57984,7 @@ AA制	aarm	985000
 嚬	khim	403000
 遗漏	khin	6770000
 中学	khip	89800000
-跳	khiq	321000000
+跳	khqi	321000000
 跳河	khis	952000
 𨄈	khis	0
 𨅨	khis	0
@@ -58781,6 +58875,7 @@ AA制	aarm	985000
 𠽉	kips	0
 咣	kiqn	1250000
 咷	kiqn	57200
+咷	kqiy	57200
 吵扰	kird	8930
 𠸁	kire	0
 哨兵	kirg	1370000
@@ -61655,6 +61750,7 @@ AA制	aarm	985000
 轻便	lcwg	3200000
 轻悠	lcwh	17800
 轻佻	lcwi	435000
+轻佻	lcwq	435000
 𤲁	lcwm	0
 畯	lcwt	255000
 轻伤	lcwt	1620000
@@ -62495,6 +62591,7 @@ AA制	aarm	985000
 𡇓	lgcf	0
 𨆧	lgch	0
 罪责难逃	lgci	39400
+罪责难逃	lgcq	39400
 𨍀	lgcj	0
 车马	lgcn	1070000
 𡇗	lgcq	0
@@ -62770,6 +62867,7 @@ AA制	aarm	985000
 𣫹	lgxd	0
 车组	lgxe	3560000
 国母	lgxg	381000
+国母	lgxy	381000
 𦊂	lgxg	0
 𨋆	lgxg	0
 𡆻	lgxi	0
@@ -66702,6 +66800,7 @@ AA制	aarm	985000
 𢅐	mhww	0
 帷	mhwy	1560000
 贝母	mhxg	805000
+贝母	mhxy	805000
 𢅟	mhxh	0
 𢅧	mhxh	0
 𢂀	mhxj	0
@@ -67635,7 +67734,7 @@ AA制	aarm	985000
 风浪	mqiy	1840000
 风暴	mqja	38300000
 賯	mqjb	30400
-嶑	mqje	30100
+嶑	mqke	30100
 风里	mqjf	4120000
 峋	mqjg	105000
 𧵣	mqjg	0
@@ -68498,6 +68597,7 @@ AA制	aarm	985000
 𠕚	muii	0
 𠕬	muim	0
 脁	muiq	59000
+脁	muqi	59000
 𦡎	muiq	0
 㠉	mujf	4700
 𡺞	mujf	0
@@ -69523,6 +69623,7 @@ AA制	aarm	985000
 𨾧	nawy	0
 展缓	naxe	14700
 异母	naxg	806000
+异母	naxy	806000
 民强	naxk	142000
 民约	naxq	834000
 异乡	naxt	5150000
@@ -69702,8 +69803,8 @@ AA制	aarm	985000
 惨祸	ncpy	199000
 怪怨	ncqb	36200
 怡然	ncqd	2430000
-怪象	ncqj	798000
-惨象	ncqj	204000
+怪象	ncqk	798000
+惨象	ncqk	204000
 惨杀	ncqs	39300
 性骚扰	ncrd	10500000
 恈	ncrh	21000
@@ -72083,7 +72184,7 @@ AA制	aarm	985000
 性饥渴	nqij	395000
 𢘝	nqiy	0
 惸	nqjb	53000
-𢠽	nqje	0
+𢠽	nqke	0
 恂	nqjg	439000
 𦐥	nqjg	0
 𢞛	nqjn	0
@@ -73625,7 +73726,7 @@ AA制	aarm	985000
 以外	nyqh	230000000
 𢣊	nyqh	0
 心锁	nyqi	549000
-心象	nyqj	981000
+心象	nyqk	981000
 以免	nyqk	26700000
 心包	nyqn	692000
 心狠	nyqt	504000
@@ -76562,6 +76663,7 @@ AA制	aarm	985000
 𡧖	pbwu	0
 字集	pbwy	135000
 字母	pbxg	30400000
+字母	pbxy	30400000
 字纸	pbxq	155000
 字库	pbyl	1600000
 字调	pbym	101000
@@ -78000,6 +78102,7 @@ AA制	aarm	985000
 密植	pnsf	593000
 官本	pnsg	165000
 蜜桃	pnsi	2070000
+蜜桃	pnsq	2070000
 密林	pnss	2450000
 官样	pnsu	90200
 官长	pnta	326000
@@ -79884,6 +79987,7 @@ AA制	aarm	985000
 䆱	pwio	3760
 察觉	pwip	5530000
 窕	pwiq	1240000
+窕	pwqi	1240000
 𥧕	pwiq	0
 空泛	pwit	790000
 𥨿	pwit	0
@@ -80613,6 +80717,7 @@ AA制	aarm	985000
 神学	pyip	1800000
 视觉	pyip	32300000
 祧	pyiq	207000
+祧	pyqi	207000
 𥙑	pyiq	0
 祝酒	pyis	577000
 𥛫	pyis	0
@@ -81358,6 +81463,7 @@ AA制	aarm	985000
 䤴	qbib	7620
 猫耳洞	qbim	71700
 凶兆	qbiq	714000
+凶兆	qbqi	714000
 凶光	qbiq	1180000
 凶暴	qbja	1400000
 𣆌	qbjf	0
@@ -81766,7 +81872,7 @@ AA制	aarm	985000
 镣铐	qdqf	323000
 鱿鱼	qdqg	2310000
 鲍威尔	qdqi	1540000
-危象	qdqj	324000
+危象	qdqk	324000
 肴馔	qdqn	108000
 鋴	qdqn	22200
 久而久之	qdqp	3410000
@@ -82702,7 +82808,7 @@ AA制	aarm	985000
 鲤鱼	qgqg	2860000
 鳄鱼	qgqg	4260000
 印玺	qgqi	60100
-印象	qgqj	114000000
+印象	qgqk	114000000
 𨦙	qgqj	0
 够不够	qgqk	1570000
 钱包	qgqn	11200000
@@ -82969,6 +83075,7 @@ AA制	aarm	985000
 钻洞	qhim	251000
 外漏	qhin	558000
 外逃	qhiq	1620000
+外逃	qhqi	1620000
 外派	qhir	1070000
 䤮	qhit	5560
 外省	qhit	4690000
@@ -83212,8 +83319,10 @@ AA制	aarm	985000
 𠣧	qiqi	0
 锁链	qiql	1140000
 銚	qiqn	231000
+銚	qqiy	231000
 銧	qiqn	148000
 铫	qiqn	144000
+铫	qqiy	144000
 销钉	qiqs	142000
 乐儿	qiqt	1230000
 鎃	qire	60700
@@ -83267,22 +83376,22 @@ AA制	aarm	985000
 乐谱	qiyu	4040000
 乐府	qiyw	1260000
 鏎	qjaf	56700
-象牙	qjah	8220000
+象牙	qkah	8220000
 鑤	qjai	63100
 刈草	qjaj	49300
 㝁	qjbf	4280
 郇	qjbh	582000
 名师出高徒	qjbt	314000
-象限	qjbv	577000
+象限	qkbv	577000
 铿	qjcf	624000
 锡矿	qjdy	148000
 金蝉脱壳	qjef	788000
 𨧹	qjeg	0
-勨	qjel	137000
-𩕓	qjem	0
-䴂	qjeo	4650
-𨖶	qjep	0
-象	qjeu	191000000
+勨	qkel	137000
+𩕓	qkem	0
+䴂	qkeo	4650
+𨖶	qkep	0
+象	qkeu	191000000
 𨫉	qjff	0
 𨬵	qjff	0
 𨯮	qjff	0
@@ -83291,10 +83400,10 @@ AA制	aarm	985000
 銲	qjfh	134000
 旬刊	qjfj	347000
 𠢴	qjfl	0
-象声	qjfn	37100
+象声	qkfn	37100
 龟壳	qjfp	284000
 䥵	qjfq	3900
-象形	qjga	1330000
+象形	qkga	1330000
 𨨊	qjga	0
 鍀	qjgf	1030000
 锝	qjgf	1940000
@@ -83362,10 +83471,10 @@ AA制	aarm	985000
 锞	qjsy	319000
 久旱逢甘雨	qjtf	87300
 𨨌	qjtf	0
-象征	qjtg	16000000
+象征	qktg	16000000
 鍟	qjtg	1150000
 𨩛	qjtg	0
-象鼻	qjth	858000
+象鼻	qkth	858000
 锡箔	qjti	414000
 触景生情	qjtn	368000
 龟头	qjud	1540000
@@ -85450,7 +85559,7 @@ AA制	aarm	985000
 鉨	qqiy	653000
 铄	qqiy	732000
 金蝶	qqja	2790000
-鐌	qqje	82500
+鐌	qqke	82500
 多时	qqjf	4390000
 銁	qqjg	24800
 钩虫	qqjh	177000
@@ -85586,7 +85695,7 @@ AA制	aarm	985000
 多极	qqse	930000
 金枝	qqsf	2430000
 金杯	qqsg	2940000
-猕猴桃	qqsi	1320000
+猕猴桃	qqsq	1320000
 𠜽	qqsj	0
 多梦	qqss	1150000
 金桥	qqst	5020000
@@ -89461,6 +89570,7 @@ AA制	aarm	985000
 技能	rfce	60400000
 质对	rfcf	131000
 插翅难逃	rfci	159000
+插翅难逃	rfcq	159000
 擂台	rfck	11100000
 搕	rfcl	75700
 𢬱	rfcl	0
@@ -89551,6 +89661,7 @@ AA制	aarm	985000
 挂漏	rfin	12600
 抚掌	rfip	293000
 遁逃	rfiq	121000
+遁逃	rfqi	121000
 反动派	rfir	675000
 护城河	rfis	875000
 抺	rfiy	318000
@@ -90517,10 +90628,12 @@ AA制	aarm	985000
 𢵺	rian	0
 㦵	riat	3670
 挑花	riaw	448000
+挑花	rqaw	448000
 𤾯	riay	0
 邾	ribh	328000
 𨜩	ribh	0
 挑出	ribm	1810000
+挑出	rqbm	1810000
 𩢻	ricy	0
 撑大	ridd	388000
 挥汗成雨	ridf	760
@@ -90546,10 +90659,12 @@ AA制	aarm	985000
 泉脉	riey	11700
 撑地	rifb	1680000
 挑动	rifc	1110000
+挑动	rqfc	1110000
 搅动	rifc	1570000
 泉城	rifd	1960000
 挡雨	rifg	256000
 挑起	rifh	4930000
+挑起	rqfh	4930000
 撑起	rifh	2800000
 皐	rifj	378000
 𢵻	rifj	0
@@ -90561,6 +90676,7 @@ AA制	aarm	985000
 𣠶	rifq	0
 年少无知	rift	81600
 挑夫	rifw	474000
+挑夫	rqfw	474000
 换汤不换药	riga	347000
 𢴆	rige	0
 𤽔	rigf	0
@@ -90569,8 +90685,10 @@ AA制	aarm	985000
 𢭿	righ	0
 拖泥带水	rigi	708000
 挑逗	rigk	6460000
+挑逗	rqgk	6460000
 捎带	rigk	563000
 挑刺	rigm	567000
+挑刺	rqgm	567000
 㼡	rign	4610
 捎来	rigo	509000
 撑死	rigq	1440000
@@ -90578,6 +90696,7 @@ AA制	aarm	985000
 𢼲	rihc	0
 扬汤止沸	rihi	138000
 挑战	rihk	64000000
+挑战	rqhk	64000000
 泉眼	rihv	419000
 泉涌	riic	1500000
 泉源	riid	1190000
@@ -90595,11 +90714,14 @@ AA制	aarm	985000
 朱雀	riiw	3770000
 泉流	riiy	236000
 挑明	rije	146000
+挑明	rqje	146000
 㧺	rijg	3840
 排水量	rijg	707000
 𧑤	rijj	0
 挑剔	rijq	6290000
+挑剔	rqjq	6290000
 挑唆	rikc	199000
+挑唆	rqkc	199000
 𠱒	rikf	0
 挡路	rikh	800000
 热水器	rikk	11500000
@@ -90624,6 +90746,7 @@ AA制	aarm	985000
 手掌心	riny	484000
 𢴗	rioo	0
 挑灯	rios	410000
+挑灯	rqos	410000
 哲学家	ripe	3620000
 抄家	ripe	672000
 摚	ripf	96000
@@ -90641,14 +90764,17 @@ AA制	aarm	985000
 𢴤	rips	0
 撐	ript	7530000
 挑错	riqa	1670000
+挑错	rqqa	1670000
 㿡	riqb	6080
 执法犯法	riqi	173000
 㿠	riqn	7530
 挄	riqn	44900
 挑	riqn	60700000
+挑	rqin	60700000
 𣂥	riqr	0
 搅匀	riqu	867000
 挑拣	rira	495000
+挑拣	rqra	495000
 抄报	rirb	769000
 搅扰	rird	66600
 撑持	rirf	147000
@@ -90657,7 +90783,9 @@ AA制	aarm	985000
 𤆁	riri	0
 𤿁	riri	0
 挑担	rirj	120000
+挑担	rqrj	120000
 挑拨	rirn	1390000
+挑拨	rqrn	1390000
 搅拌	riru	7160000
 朱批	rirx	135000
 反法西斯	risa	889000
@@ -90675,11 +90803,13 @@ AA制	aarm	985000
 搅乱	ritd	1660000
 撑船	rite	316000
 挑选	ritf	42000000
+挑选	rqtf	42000000
 㨘	rith	4130
 搅海翻江	riti	7380
 搅得	ritj	591000
 搅和	ritk	2060000
 挑衅	ritl	4240000
+挑衅	rqtl	4240000
 挘	ritl	26100
 毮	ritn	19900
 搅翻	rito	24300
@@ -90714,6 +90844,7 @@ AA制	aarm	985000
 抄件	riwr	65800
 撑伞	riwu	583000
 挑食	riwy	1170000
+挑食	rqwy	1170000
 挡住	riwy	4960000
 𢫐	riwy	0
 𨾲	riwy	0
@@ -91360,7 +91491,9 @@ AA制	aarm	985000
 揣测	rmim	1680000
 缺漏	rmin	236000
 抽逃	rmiq	600000
+抽逃	rmqi	600000
 罀	rmiq	47800
+罀	rmqi	47800
 罉	rmir	26600
 投河	rmis	351000
 缺少	rmit	24800000
@@ -91423,7 +91556,7 @@ AA制	aarm	985000
 缺额	rmpt	736000
 投案	rmpv	995000
 抽空	rmpw	3810000
-抽象	rmqj	13100000
+抽象	rmqk	13100000
 𦉉	rmql	0
 缼	rmqw	27500
 㧏	rmqy	25900
@@ -91783,7 +91916,7 @@ AA制	aarm	985000
 气色	rnqc	911000
 所以然	rnqd	2220000
 扎针	rnqf	658000
-气象	rnqj	18500000
+气象	rnqk	18500000
 扬名	rnqk	2280000
 气馁	rnqn	1820000
 抚恤金	rnqq	670000
@@ -97293,7 +97426,7 @@ AA制	aarm	985000
 相容	shpw	5190000
 相视	shpy	3020000
 𣗀	shqc	0
-想象	shqj	39100000
+想象	shqk	39100000
 梘	shqn	58200
 板上钉钉	shqq	365000
 核战争	shqv	196000
@@ -97389,7 +97522,9 @@ AA制	aarm	985000
 根深蒂固	sial	1910000
 植党营私	siat	6810
 桃花	siaw	19300000
+桃花	sqaw	19300000
 桃子	sibb	8250000
+桃子	sqbb	8250000
 西洋参	sicd	989000
 覆水难收	sicn	331000
 瓢泼大雨	sidf	338000
@@ -97404,6 +97539,7 @@ AA制	aarm	985000
 西洋画	sigl	291000
 𣓭	sihg	0
 桃源	siid	5720000
+桃源	sqid	5720000
 酸溜溜	siiq	886000
 桫	siit	581000
 𣙵	sijf	0
@@ -97416,6 +97552,7 @@ AA制	aarm	985000
 档口	sikk	812000
 杯水车薪	sila	663000
 桃园	silf	9250000
+桃园	sqlf	9250000
 𣓐	simg	0
 㭻	simk	4890
 𣚿	simt	0
@@ -97432,19 +97569,27 @@ AA制	aarm	985000
 档案	sipv	150000000
 𣑯	siqb	0
 桃色	siqc	6070000
+桃色	sqqc	6070000
 想当然	siqd	1330000
 𣛯	siql	0
 桃	siqn	46100000
+桃	sqiy	46100000
 桄	siqn	323000
 𣗮	siqo	0
+𣗮	sqio	0
 西洋镜	siqu	195000
 桃李	sisb	2920000
+桃李	sqsb	2920000
 桃树	sisc	1350000
+桃树	sqsc	1350000
 桃酥	sisg	189000
+桃酥	sqsg	189000
 𣐘	sish	0
 桃杏	sisk	166000
+桃杏	sqsk	166000
 𣙄	sisn	0
 桃林	siss	511000
+桃林	sqss	511000
 顶梁柱	sisy	485000
 𣒑	sisy	0
 核潜艇	site	1570000
@@ -97456,6 +97601,7 @@ AA制	aarm	985000
 𣜮	sitt	0
 𣒹	sitv	0
 桃符	sitw	188000
+桃符	sqtw	188000
 梢头	siud	419000
 梦游症	siug	119000
 档次	siuq	14700000
@@ -97467,11 +97613,13 @@ AA制	aarm	985000
 醇酒妇人	sivw	848
 𣖷	siwe	0
 桃仁	siwf	817000
+桃仁	sqwf	817000
 榉	siwh	1300000
 﨔	siwr	22700
 档位	siwu	1320000
 检举人	siww	167000
 桃红	sixa	1870000
+桃红	sqxa	1870000
 𣛦	siyb	0
 杯酒言欢	siyc	18500
 西游记	siyn	8260000
@@ -97970,6 +98118,7 @@ AA制	aarm	985000
 栅极	smse	381000
 机票	smsf	53500000
 樱桃	smsi	9860000
+樱桃	smsq	9860000
 机构	smsq	183000000
 柚木	smss	2570000
 栅格	smst	332000
@@ -98089,6 +98238,7 @@ AA制	aarm	985000
 杨	snrt	286000000
 杨树	snsc	1260000
 杨桃	snsi	476000
+杨桃	snsq	476000
 橄榄	snsj	7040000
 栩栩	snsn	3570000
 杨柳	snsq	3850000
@@ -98361,7 +98511,7 @@ AA制	aarm	985000
 𣛞	sqiy	0
 𣖆	sqjb	0
 𣕍	sqjd	0
-橡	sqje	14600000
+橡	sqke	14600000
 栒	sqjg	65900
 𣓓	sqjn	0
 𣖼	sqjn	0
@@ -98765,6 +98915,7 @@ AA制	aarm	985000
 𣝭	ssij	0
 酸梅汤	ssin	230000
 梦兆	ssiq	24400
+梦兆	ssqi	24400
 醍醐灌顶	ssis	505000
 林海	ssit	3070000
 梦游	ssiy	4290000
@@ -100263,6 +100414,7 @@ AA制	aarm	985000
 𩰩	sysf	0
 核酸	sysg	3020000
 核桃	sysi	7270000
+核桃	sysq	7270000
 核查	sysj	6660000
 檀木	syss	1120000
 𣙪	syss	0
@@ -101331,7 +101483,7 @@ AA制	aarm	985000
 鸹	tdqg	133000
 奥威尔	tdqi	158000
 适销	tdqi	954000
-乱象	tdqj	1600000
+乱象	tdqk	1600000
 知名	tdqk	61900000
 短句	tdqk	1470000
 𥏍	tdqk	0
@@ -102366,7 +102518,9 @@ AA制	aarm	985000
 𩹚	tfio	0
 赞赏	tfip	6090000
 先兆	tfiq	1480000
+先兆	tfqi	1480000
 千兆	tfiq	3280000
+千兆	tfqi	3280000
 选派	tfir	3710000
 先河	tfis	3430000
 科索沃	tfit	1150000
@@ -102848,6 +103002,7 @@ AA制	aarm	985000
 选票	tfsf	2200000
 选配	tfsg	2520000
 毛桃	tfsi	274000
+毛桃	tfsq	274000
 待查	tfsj	705000
 赞歌	tfsk	1790000
 先机	tfsm	3500000
@@ -103454,7 +103609,7 @@ T型台	tgck	383000
 重镇	tgqf	2740000
 重印	tgqg	1080000
 䅀	tgqj	6430
-征象	tgqj	805000
+征象	tgqk	805000
 𥬭	tgqj	0
 重名	tgqk	838000
 重负	tgqm	2800000
@@ -104444,6 +104599,7 @@ T型台	tgck	383000
 𥳶	tipr	0
 䉎	tips	4130
 筄	tiqb	34600
+筄	tqiu	34600
 秒针	tiqf	424000
 血汗钱	tiqg	1700000
 𧗯	tiqh	0
@@ -105333,7 +105489,7 @@ T型台	tgck	383000
 𩲗	tlqh	0
 囟	tlqi	307000
 囱	tlqi	399000
-血象	tlqj	273000
+血象	tlqk	273000
 𠞇	tlqj	0
 𥣋	tlqj	0
 𧖕	tlqj	0
@@ -107335,7 +107491,7 @@ T型台	tgck	383000
 穆尔	trqi	795000
 𤚂	trqi	0
 𤛃	trqi	0
-物象	trqj	441000
+物象	trqk	441000
 𤘽	trqk	0
 籀	trql	1590000
 𠡵	trql	0
@@ -110261,7 +110417,9 @@ T恤	ttnt	30300000
 头油	udim	189000
 叛党	udip	279000
 䍮	udiq	4250
+䍮	udqi	4250
 叛逃	udiq	605000
+叛逃	udqi	605000
 养活	udit	3460000
 减少	udit	86800000
 𣳾	udiu	0
@@ -110824,6 +110982,7 @@ T恤	ttnt	30300000
 前尘	ueif	1220000
 前沿	ueim	24200000
 前兆	ueiq	2230000
+前兆	ueqi	2230000
 羊肠小道	ueiu	732000
 前浪	ueiy	1800000
 前贤	uejc	356000
@@ -112206,7 +112365,7 @@ T恤	ttnt	30300000
 章鱼	ujqg	2630000
 意外	ujqh	77900000
 音乐	ujqi	300000000
-意象	ujqj	2920000
+意象	ujqk	2920000
 单句	ujqk	276000
 章句	ujqk	411000
 𩐝	ujqk	0
@@ -112232,6 +112391,7 @@ T恤	ttnt	30300000
 童年	ujrh	18300000
 𩐙	ujrh	0
 单挑	ujri	2990000
+单挑	ujrq	2990000
 单摆	ujrl	294000
 交易所	ujrn	16000000
 单据	ujrn	3310000
@@ -112830,6 +112990,7 @@ T恤	ttnt	30300000
 𩍷	umdf	0
 闻风而至	umdg	61400
 闻风而逃	umdi	43100
+闻风而逃	umdq	43100
 端	umdj	128000000
 𠞶	umdj	0
 𠹧	umdk	0
@@ -116903,6 +117064,7 @@ U盘	uute	31900000
 奶油小生	viit	218000
 娇滴滴	viiu	1010000
 姚明	vije	33900000
+姚明	vqje	33900000
 㛥	vijg	3760
 鹔	vijg	34000
 剥	vijh	8620000
@@ -116938,6 +117100,7 @@ U盘	uute	31900000
 肃然	viqd	2410000
 剥蚀	viqn	404000
 姚	viqn	28200000
+姚	vqiy	28200000
 姯	viqn	52000
 𦥰	viqn	0
 肃杀	viqs	889000
@@ -121343,6 +121506,7 @@ U盘	uute	31900000
 𠌏	wiqh	0
 俏销	wiqi	559000
 佻	wiqn	725000
+佻	wqiy	725000
 侊	wiqn	431000
 贪污犯	wiqt	325000
 分光镜	wiqu	122000
@@ -121979,6 +122143,7 @@ U盘	uute	31900000
 𠌬	wnih	0
 似水	wnii	7570000
 亿兆	wniq	225000
+亿兆	wnqi	225000
 假酒	wnis	583000
 坐收渔利	wnit	91700
 追溯	wniu	5490000
@@ -122107,7 +122272,7 @@ U盘	uute	31900000
 𩣈	wnqc	0
 𦥓	wnqg	0
 假钞	wnqi	656000
-假象	wnqj	3470000
+假象	wnqk	3470000
 假名	wnqk	1230000
 𡯚	wnqn	0
 𧠬	wnqq	0
@@ -122575,7 +122740,7 @@ U盘	uute	31900000
 𠉎	wqiy	0
 𠊫	wqjb	0
 𡯒	wqjd	0
-像	wqje	690000000
+像	wqke	690000000
 侚	wqjg	119000
 含金量	wqjg	2200000
 𧉇	wqji	0
@@ -123150,6 +123315,7 @@ U盘	uute	31900000
 㑅	wthg	4690
 㑑	wthg	4320
 凭眺	wthi	32000
+凭眺	wthq	32000
 偺	wthj	77400
 叙旧	wthj	767000
 𠏿	wthj	0
@@ -123334,6 +123500,7 @@ U盘	uute	31900000
 倭	wtvg	3230000
 𠈍	wtvg	0
 余姚	wtvi	5170000
+余姚	wtvq	5170000
 人生如寄	wtvp	38600
 含笑九泉	wtvr	191000
 任君	wtvt	649000
@@ -126098,6 +126265,7 @@ U盘	uute	31900000
 红树	xasc	544000
 红杉	xase	563000
 红桃	xasi	493000
+红桃	xasq	493000
 红杏	xask	3130000
 𦂭	xask	0
 红楼	xaso	15700000
@@ -126952,6 +127120,7 @@ U盘	uute	31900000
 纯美	xgug	2880000
 𢏊	xguh	0
 母	xgui	143000000
+母	xyyi	143000000
 𦂲	xgui	0
 纯音	xguj	1110000
 𠰔	xguk	0
@@ -127573,6 +127742,7 @@ U盘	uute	31900000
 幼年	xlrh	3510000
 细看	xlrh	4160000
 细挑	xlri	27700
+细挑	xlrq	27700
 𢏩	xlrn	0
 幼托	xlrt	248000
 㢴	xlry	3930
@@ -127796,7 +127966,7 @@ U盘	uute	31900000
 幻视	xnpy	142000
 纠错	xnqa	9360000
 强心针	xnqf	163000
-幻象	xnqj	2790000
+幻象	xnqk	2790000
 䌌	xnrg	5540
 纪年	xnrh	792000
 幼发拉底河	xnri	130000
@@ -128086,7 +128256,7 @@ U盘	uute	31900000
 弥	xqiy	12300000
 𤦀	xqiy	0
 弥坚	xqjc	396000
-𢐣	xqje	0
+𢐣	xqke	0
 絢	xqjg	1720000
 约旦	xqjg	2390000
 绚	xqjg	3290000
@@ -129561,6 +129731,7 @@ U盘	uute	31900000
 编后	xyrg	603000
 编年	xyrh	501000
 细高挑	xyri	16900
+细高挑	xyrq	16900
 统揽	xyrj	518000
 比肩接踵	xyrk	18100
 编舞	xyrl	555000
@@ -131176,7 +131347,7 @@ U盘	uute	31900000
 𧙩	ygqe	0
 衣不解带	ygqg	124000
 主外	ygqh	1040000
-语象	ygqj	11800
+语象	ygqk	11800
 𧧋	ygqj	0
 语句	ygqk	9260000
 请多	ygqq	8000000
@@ -131508,6 +131679,7 @@ U盘	uute	31900000
 望洋兴叹	yiik	212000
 就学	yiip	4440000
 京兆	yiiq	506000
+京兆	yiqi	506000
 京派	yiir	207000
 京津	yiiv	6630000
 应当	yiiv	41400000
@@ -131557,11 +131729,12 @@ U盘	uute	31900000
 𢊖	yips	0
 就寝	yipu	6570000
 𣂁	yiqf	0
-就象	yiqj	22000000
+就象	yiqk	22000000
 𠝡	yiqj	0
 就够	yiqk	16800000
 𢊙	yiqk	0
 誂	yiqn	159000
+誂	yqiy	159000
 𧧯	yiqn	0
 康涅狄格	yiqs	538000
 应急	yiqv	24200000
@@ -132243,6 +132416,7 @@ U盘	uute	31900000
 调研	ymdg	42400000
 敲破	ymdh	266000
 望风而逃	ymdi	75500
+望风而逃	ymdq	75500
 諯	ymdj	33400
 𧩠	ymdj	0
 亢奋	ymdl	1540000
@@ -132497,6 +132671,7 @@ U盘	uute	31900000
 高挂	ymrf	2130000
 这几年	ymrh	11700000
 高挑	ymri	2400000
+高挑	ymrq	2400000
 望风捕影	ymrj	7670
 市制	ymrm	851000
 调制	ymrm	3440000
@@ -133223,6 +133398,7 @@ U盘	uute	31900000
 忘掉	ynrh	4810000
 𢩏	ynrh	0
 肩挑	ynri	490000
+肩挑	ynrq	490000
 扁担	ynrj	714000
 废气	ynrn	3640000
 高蛋白	ynrr	1630000
@@ -133238,6 +133414,7 @@ U盘	uute	31900000
 妄想	ynsh	31500000
 㦿	ynsi	4620
 扁桃	ynsi	1010000
+扁桃	ynsq	1010000
 望楼	ynso	205000
 房檐	ynsq	186000
 刻板	ynsr	1910000
@@ -133543,7 +133720,7 @@ U盘	uute	31900000
 弯角	yoqe	276000
 銮	yoqf	845000
 鸾	yoqg	1850000
-迹象	yoqj	13500000
+迹象	yoqk	13500000
 弯钩	yoqq	172000
 谈锋	yoqt	85500
 变质	yorf	4470000
@@ -133893,7 +134070,7 @@ U盘	uute	31900000
 义举	yqiw	1180000
 𧦽	yqiy	0
 𧪂	yqjb	0
-𧬛	yqje	0
+𧬛	yqke	0
 底里	yqjf	377000
 𧍽	yqjf	0
 詢	yqjg	16200000
@@ -134578,6 +134755,7 @@ U盘	uute	31900000
 放水	ytii	3020000
 放学	ytip	4540000
 旐	ytiq	69500
+旐	ytqi	69500
 诱敌深入	ytit	113000
 𢽮	ytit	0
 谬种流传	ytiw	111000
@@ -136693,39 +136871,39 @@ nm	zzdw	895
 ＾	zzts	517
 ＿	zzts	516
 ￣	zzts	515
-а	zzxe	514
-б	zzxe	513
-в	zzxe	512
-г	zzxe	511
-д	zzxe	510
-е	zzxe	509
-ж	zzxe	508
-з	zzxe	507
-и	zzxe	506
-й	zzxe	505
-к	zzxe	504
-л	zzxe	503
-м	zzxe	502
-н	zzxe	501
-о	zzxe	500
-п	zzxe	499
-р	zzxe	498
-с	zzxe	497
-т	zzxe	496
-у	zzxe	495
-ф	zzxe	494
-х	zzxe	493
-ц	zzxe	492
-ч	zzxe	491
-ш	zzxe	490
-щ	zzxe	489
-ъ	zzxe	488
-ы	zzxe	487
-ь	zzxe	486
-э	zzxe	485
-ю	zzxe	484
-я	zzxe	483
-ё	zzxe	482
+а	zzcya	514
+б	zzcyb	513
+в	zzcyv	512
+г	zzcyg	511
+д	zzcyd	510
+е	zzcye	509
+ж	zzcyz	508
+з	zzcyz	507
+и	zzcyi	506
+й	zzcyy	505
+к	zzcyk	504
+л	zzcyl	503
+м	zzcym	502
+н	zzcyn	501
+о	zzcyo	500
+п	zzcyp	499
+р	zzcyr	498
+с	zzcys	497
+т	zzcyt	496
+у	zzcyu	495
+ф	zzcyf	494
+х	zzcyh	493
+ц	zzcyt	492
+ч	zzcyc	491
+ш	zzcys	490
+щ	zzcys	489
+ъ	zzcy'	488
+ы	zzcyy	487
+ь	zzcy'	486
+э	zzcye	485
+ю	zzcyi	484
+я	zzcyy	483
+ё	zzcyy	482
 ⅰ	zzlma	481
 ⅱ	zzlmb	480
 ⅲ	zzlmc	479
