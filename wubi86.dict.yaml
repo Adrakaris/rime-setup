@@ -5533,6 +5533,7 @@ encoder:
 掾	rxe	777000
 掼	rxf	485000
 拇	rxg	2830000
+拇	rxy	2830000
 指	rxj	226000000
 拗	rxl	2160000
 㧈	rxn	4090
@@ -6204,6 +6205,7 @@ encoder:
 龜	txd	11200000
 篆	txe	2050000
 每	txg	909000000
+每	txy	909000000
 第	txh	1710000000
 系	txi	589000000
 𥝓	txn	0
@@ -6808,6 +6810,7 @@ encoder:
 妗	vwy	1480000
 𡚭	vwy	0
 姆	vxg	60800000
+姆	vxy	60800000
 𡚧	vxn	0
 𡚨	vxn	0
 妣	vxx	381000
@@ -13325,6 +13328,7 @@ AA制	aarm	985000
 𧁋	atxn	0
 萎缩	atxp	11500000
 莓	atxu	6030000
+莓	atxy	6030000
 藊	atya	21900
 𦽑	atyb	0
 𧅼	atye	0
@@ -14303,6 +14307,7 @@ AA制	aarm	985000
 蒓	axgn	210000
 䕳	axgq	3770
 苺	axgu	8040000
+苺	axyy	8040000
 䒡	axhj	4390
 𧔩	axhj	0
 苐	axht	135000
@@ -14848,6 +14853,7 @@ AA制	aarm	985000
 随随便便	bbww	1810000
 子集	bbwy	607000
 子母	bbxg	1430000
+子母	bbxy	1430000
 子弹	bbxu	9180000
 隐隐约约	bbxx	1330000
 子母	bbxy	1430000
@@ -18686,7 +18692,7 @@ AA制	aarm	985000
 𨾰	cfwy	0
 𩧏	cfwy	0
 圣经	cfxc	15200000
-圣母	cfxg	2560000
+圣母	cfxy	2560000
 圣旨	cfxj	1400000
 桑塔纳	cfxm	7250000
 对比	cfxx	41800000
@@ -22142,6 +22148,7 @@ AA制	aarm	985000
 大开绿灯	dgxo	105000
 石缝	dgxt	499000
 碡	dgxu	106000
+碡	dgxy	106000
 𡗰	dgxu	0
 三维	dgxw	17000000
 大一统	dgxy	712000
@@ -25989,6 +25996,7 @@ AA制	aarm	985000
 𣩸	dywx	0
 𥗭	dywy	0
 丈母	dyxg	1380000
+丈母	dyxy	1380000
 𥗯	dyxn	0
 碎纸	dyxq	7560000
 存亡绝续	dyxx	18000
@@ -28441,6 +28449,7 @@ AA制	aarm	985000
 𦙋	etxn	0
 用纸	etxq	4550000
 脢	etxu	374000
+脢	etxy	374000
 用度	etya	400000
 腹诽	etyd	266000
 用计	etyf	853000
@@ -33664,6 +33673,7 @@ AA制	aarm	985000
 𡒔	fnwy	0
 专线	fnxg	12800000
 声母	fnxg	779000
+声母	fnxy	779000
 声强	fnxk	148000
 地心引力	fnxl	495000
 声纳	fnxm	335000
@@ -35199,6 +35209,7 @@ AA制	aarm	985000
 老鸨	ftxf	390000
 耋	ftxf	1410000
 老母	ftxg	3320000
+老母	ftxy	3320000
 考绩	ftxg	148000
 𦒼	ftxg	0
 𦒿	ftxh	0
@@ -35238,7 +35249,9 @@ AA制	aarm	985000
 𦓅	ftxs	0
 老乡	ftxt	6740000
 㙁	ftxu	4920
+㙁	ftxy	4920
 霉	ftxu	25800000
+霉	ftxy	25800000
 𦒹	ftxu	0
 教给	ftxw	2420000
 䎜	ftxx	3820
@@ -35518,6 +35531,7 @@ AA制	aarm	985000
 𩆇	fuwv	0
 𨶄	fuwy	0
 丧母	fuxg	424000
+丧母	fuxy	424000
 增强	fuxk	72900000
 𡌡	fuxt	0
 丧母	fuxy	424000
@@ -37927,6 +37941,7 @@ AA制	aarm	985000
 一纸	ggxq	4520000
 一张	ggxt	58400000
 瑇	ggxu	42400
+瑇	ggxy	42400
 王维	ggxw	1610000
 一丝	ggxx	27900000
 琵	ggxx	2080000
@@ -42165,6 +42180,7 @@ AA制	aarm	985000
 毒死	gxgq	1380000
 一丝不挂	gxgr	1380000
 毒	gxgu	93600000
+毒	gxyy	93600000
 毒素	gxgx	7040000
 璏	gxgx	56700
 一丝一毫	gxgy	665000
@@ -50554,6 +50570,7 @@ AA制	aarm	985000
 酒令	iswy	486000
 小本经营	isxa	418000
 酒母	isxg	73500
+酒母	isxy	73500
 𤄿	isxs	0
 湘乡	isxt	2350000
 酒母	isxy	73500
@@ -51050,6 +51067,7 @@ AA制	aarm	985000
 海绵	itxr	6570000
 活络	itxt	1280000
 海	itxu	375000000
+海	itxy	375000000
 泛绿	itxv	470000
 涤纶	itxw	2710000
 省编	itxy	211000
@@ -53692,6 +53710,7 @@ AA制	aarm	985000
 鼂	jgxf	26000
 𣉓	jgxf	0
 师母	jgxg	275000
+师母	jgxy	275000
 𣅥	jgxg	0
 螦	jgxi	20400
 题旨	jgxj	182000
@@ -54287,6 +54306,7 @@ AA制	aarm	985000
 𧏧	jlwt	0
 曼谷	jlww	6620000
 螺母	jlxg	1670000
+螺母	jlxy	1670000
 螺	jlxi	14900000
 螺丝	jlxx	4490000
 螺母	jlxy	1670000
@@ -55496,7 +55516,9 @@ AA制	aarm	985000
 𧐟	jtxn	0
 临终	jtxt	2290000
 晦	jtxu	2670000
+晦	jtxy	2670000
 𧋟	jtxu	0
+𧋟	jtxy	0
 星缘	jtxx	1210000
 量入为出	jtyb	410000
 紧身衣	jtye	1200000
@@ -61207,6 +61229,7 @@ AA制	aarm	985000
 叱责	kxgm	179000
 𡄣	kxgq	0
 呣	kxgu	136000
+呣	kxyy	136000
 叶绿素	kxgx	645000
 吲	kxhh	854000
 𠰀	kxhh	0
@@ -62830,6 +62853,7 @@ AA制	aarm	985000
 𣫹	lgxd	0
 车组	lgxe	3560000
 国母	lgxg	381000
+国母	lgxy	381000
 𦊂	lgxg	0
 𨋆	lgxg	0
 𡆻	lgxi	0
@@ -66763,6 +66787,7 @@ AA制	aarm	985000
 𢅐	mhww	0
 帷	mhwy	1560000
 贝母	mhxg	805000
+贝母	mhxy	805000
 𢅟	mhxh	0
 𢅧	mhxh	0
 𢂀	mhxj	0
@@ -69586,6 +69611,7 @@ AA制	aarm	985000
 𨾧	nawy	0
 展缓	naxe	14700
 异母	naxg	806000
+异母	naxy	806000
 民强	naxk	142000
 民约	naxq	834000
 异乡	naxt	5150000
@@ -72825,6 +72851,7 @@ AA制	aarm	985000
 发绺	ntxt	9900
 𢠨	ntxt	0
 悔	ntxu	34000000
+悔	ntxy	34000000
 发绿	ntxv	704000
 发给	ntxw	22900000
 发丝	ntxx	3710000
@@ -75911,6 +75938,7 @@ AA制	aarm	985000
 䊈	otxu	4130
 炸弹	otxu	11300000
 烸	otxu	74500
+烸	otxy	74500
 𤐎	otyj	0
 熾	ouaj	1750000
 料子	oubb	722000
@@ -76819,6 +76847,7 @@ AA制	aarm	985000
 寄信	pdwy	2380000
 宠	pdxb	22200000
 寡母	pdxg	584000
+寡母	pdxy	584000
 宏旨	pdxj	42800
 寄给	pdxw	8090000
 宠辱皆忘	pdxy	51600
@@ -76961,6 +76990,7 @@ AA制	aarm	985000
 家信	pewy	424000
 家禽	pewy	5620000
 家母	pexg	501000
+家母	pexy	501000
 家乡	pext	22600000
 家给	pexw	3820000
 农庄	peyf	1310000
@@ -78260,6 +78290,7 @@ AA制	aarm	985000
 之分	ppwv	7850000
 被害人	ppww	2110000
 之母	ppxg	2560000
+之母	ppxy	2560000
 安家费	ppxj	289000
 之约	ppxq	6110000
 之乡	ppxt	8680000
@@ -81049,6 +81080,7 @@ AA制	aarm	985000
 禒	pyxe	632000
 𥛿	pyxf	0
 祖母	pyxg	7920000
+祖母	pyxy	7920000
 视线	pyxg	11600000
 祿	pyxi	4380000
 𥘬	pyxj	0
@@ -86135,6 +86167,7 @@ AA制	aarm	985000
 刹住	qswy	524000
 凶相毕露	qsxf	72000
 弑母	qsxg	103000
+弑母	qsxy	103000
 弒	qsya	1010000
 锡林郭勒	qsya	1310000
 杀熟	qsyb	39600
@@ -87194,7 +87227,9 @@ AA制	aarm	985000
 狐疑	qtxt	1550000
 猜疑	qtxt	2730000
 鋂	qtxu	80900
+鋂	qtxy	80900
 𤝕	qtxu	0
+𤝕	qtxy	0
 𤜻	qtxx	0
 猜度	qtya	364000
 猵	qtya	140000
@@ -90229,6 +90264,7 @@ AA制	aarm	985000
 后缀	rgxc	4200000
 后续	rgxf	13800000
 岳母	rgxg	2980000
+岳母	rgxy	2980000
 𢪔	rgxg	0
 㨞	rgxi	4080
 白垩纪	rgxn	410000
@@ -94900,6 +94936,7 @@ AA制	aarm	985000
 指画	rxgl	144000
 指责	rxgm	10300000
 拇	rxgu	2830000
+拇	rxyy	2830000
 𢪉	rxhh	0
 指点	rxhk	16600000
 𢯜	rxhy	0
@@ -97222,6 +97259,7 @@ AA制	aarm	985000
 𣖭	sgxf	0
 枑	sgxg	655000
 酵母	sgxg	7360000
+酵母	sgxy	7360000
 𣐛	sgxg	0
 榡	sgxi	23900
 䤙	sgxj	3710
@@ -99382,6 +99420,7 @@ AA制	aarm	985000
 𣛏	stxn	0
 𣙕	stxt	0
 梅	stxu	161000000
+梅	stxy	161000000
 𣖰	stxx	0
 𣐍	styf	0
 樦	styg	33200
@@ -100234,6 +100273,7 @@ AA制	aarm	985000
 㰘	sxga	4710
 𣟗	sxga	0
 栂	sxgu	596000
+栂	sxyy	596000
 𣏖	sxhh	0
 槇	sxhw	721000
 梦幻泡影	sxij	352000
@@ -102286,6 +102326,7 @@ AA制	aarm	985000
 𥰥	texd	0
 盘结	texf	136000
 航母	texg	6180000
+航母	texy	6180000
 航线	texg	6640000
 盘费	texj	77500
 𦨡	texj	0
@@ -103758,6 +103799,7 @@ T型台	tgck	383000
 重组	tgxe	23100000
 䇘	tgxg	3910
 生母	tgxg	958000
+生母	tgxy	958000
 䘘	tgxh	4250
 征引	tgxh	147000
 𥱨	tgxi	0
@@ -109201,6 +109243,7 @@ T恤	ttnt	30300000
 第一	txgg	445000000
 第五	txgg	78100000
 鳘	txgg	75600
+鳘	txyg	75600
 𠧩	txgh	0
 𤛎	txgh	0
 𩱢	txgh	0
@@ -109208,33 +109251,43 @@ T恤	ttnt	30300000
 䋣	txgi	3720
 䌓	txgi	4730
 瀪	txgi	54600
+瀪	txyi	54600
 緐	txgi	30600
+緐	txyi	30600
 繁	txgi	31200000
+繁	txyi	31200000
 繁琐	txgi	4380000
 𣴴	txgi	0
 𧖦	txgj	0
 系带	txgk	1120000
 𣫾	txgk	0
 勄	txgl	18900
+勄	txyl	18900
 𣬁	txgl	0
 慜	txgn	77100
+慜	txyn	77100
 𢙽	txgn	0
 𣫸	txgn	0
 𤭐	txgn	0
 利比亚	txgo	1340000
 鰵	txgo	27000
+鰵	txyo	27000
 𪄴	txgo	0
 䉲	txgq	4110
 毓	txgq	5060000
+毓	txyq	5060000
 系列	txgq	420000000
 繁殖	txgq	15800000
 𨧊	txgq	0
 𣒫	txgs	0
 𣔍	txgs	0
 敏	txgt	84500000
+敏	txyt	84500000
 自强不息	txgt	3720000
 每	txgu	909000000
+每	txyy	909000000
 𥬦	txgu	0
+𥬦	txyy	0
 系上	txhh	2340000
 𥝼	txhh	0
 䇙	txhj	3550
@@ -110818,6 +110871,7 @@ T恤	ttnt	30300000
 头绪	udxf	2210000
 𦏍	udxf	0
 养母	udxg	462000
+养母	udxy	462000
 絭	udxi	31200
 头绳	udxk	381000
 勬	udxl	1810000
@@ -112509,6 +112563,7 @@ T恤	ttnt	30300000
 意绪	ujxf	58500
 单纯	ujxg	24300000
 韵母	ujxg	289000
+韵母	ujxy	289000
 意旨	ujxj	664000
 𩐚	ujxj	0
 音强	ujxk	93000
@@ -113524,6 +113579,7 @@ T恤	ttnt	30300000
 帝位	upwu	1110000
 旁人	upww	4170000
 亲家母	upxg	139000
+亲家母	upxy	139000
 𥿿	upxi	0
 㾃	upxv	4640
 𨳷	upxv	0
@@ -114640,6 +114696,7 @@ T恤	ttnt	30300000
 𨵆	utxi	0
 首张	utxt	4880000
 痗	utxu	40500
+痗	utxy	40500
 道统	utxy	235000
 首席	utya	24200000
 首度	utya	12500000
@@ -115533,6 +115590,7 @@ U盘	uute	31900000
 凝结	uxxf	11900000
 北纬	uxxf	2700000
 慈母	uxxg	1430000
+慈母	uxxy	1430000
 關	uxxg	29800000
 鹚	uxxg	358000
 𨶚	uxxg	0
@@ -116384,6 +116442,7 @@ U盘	uute	31900000
 嫀	vdwt	47000
 㛍	vdww	3930
 姑母	vdxg	144000
+姑母	vdxy	144000
 𦦆	vdxi	0
 𡜐	vdyt	0
 𡚹	vdyy	0
@@ -116950,6 +117009,7 @@ U盘	uute	31900000
 忍不住	vgwy	16600000
 嫣红	vgxa	911000
 姨母	vgxg	242000
+姨母	vgxy	242000
 嫊	vgxi	77400
 𦀥	vgxi	0
 嫩绿	vgxv	973000
@@ -117469,6 +117529,7 @@ U盘	uute	31900000
 舅父	vlwq	319000
 𨿴	vlwy	0
 舅母	vlxg	308000
+舅母	vlxy	308000
 嫘	vlxi	981000
 姻缘	vlxx	3430000
 𡤢	vlxy	0
@@ -117964,6 +118025,7 @@ U盘	uute	31900000
 𡞶	vpwy	0
 毁家纾难	vpxc	13900
 婶母	vpxg	97900
+婶母	vpxy	97900
 巡缉	vpxk	8220
 𡛥	vpxn	0
 婉约	vpxq	1840000
@@ -118490,6 +118552,7 @@ U盘	uute	31900000
 𡠨	vtxt	0
 娇弱	vtxu	795000
 娒	vtxu	62600
+娒	vtxy	62600
 娇纵	vtxw	355000
 始乱终弃	vtxy	343000
 灵敏度	vtya	3900000
@@ -118602,6 +118665,7 @@ U盘	uute	31900000
 㜋	vuwl	4440
 妇道人家	vuwp	185000
 嫡母	vuxg	68400
+嫡母	vuxy	68400
 嬨	vuxn	761000
 𡤡	vuxo	0
 娣	vuxt	3980000
@@ -118888,6 +118952,7 @@ U盘	uute	31900000
 始终不渝	vxgi	569000
 始终不懈	vxgn	50400
 姆	vxgu	60800000
+姆	vxyy	60800000
 𡛅	vxhh	0
 𡜖	vxjg	0
 𡛯	vxjh	0
@@ -122890,6 +122955,7 @@ U盘	uute	31900000
 𨾝	wqwy	0
 低级	wqxe	5120000
 父母	wqxg	75600000
+父母	wqxy	75600000
 僧多粥少	wqxi	789000
 贫铀弹	wqxu	78600
 低度	wqya	632000
@@ -122995,6 +123061,7 @@ U盘	uute	31900000
 体制化	wrwx	105000
 佚	wrwy	1900000
 伯母	wrxg	1310000
+伯母	wrxy	1310000
 俯拾皆是	wrxj	136000
 坐失良机	wrys	116000
 儌	wryt	385000
@@ -123538,6 +123605,7 @@ U盘	uute	31900000
 侨乡	wtxt	1250000
 𠍁	wtxt	0
 侮	wtxu	2360000
+侮	wtxy	2360000
 斜纹	wtxy	1240000
 𠇓	wtxy	0
 伊利诺	wtya	446000
@@ -124243,6 +124311,7 @@ U盘	uute	31900000
 分组	wvxe	8660000
 𣁺	wvxf	0
 分母	wvxg	1170000
+分母	wvxy	1170000
 贫弱	wvxu	201000
 颁给	wvxw	661000
 分享	wvyb	279000000
@@ -126940,6 +127009,7 @@ U盘	uute	31900000
 𦅙	xfyy	0
 线芯	xgan	150000
 母子	xgbb	12400000
+母子	xybb	12400000
 純	xgbn	72300000
 纯	xgbn	189000000
 𢲝	xgbr	0
@@ -126948,6 +127018,7 @@ U盘	uute	31900000
 绖	xgcf	67800
 𦇢	xgcj	0
 母鸡	xgcq	2110000
+母鸡	xycq	2110000
 緻	xgct	3320000
 纯碱	xgdd	729000
 𢑡	xgde	0
@@ -126963,12 +127034,15 @@ U盘	uute	31900000
 弥天大谎	xgdy	165000
 𢎾	xgdy	0
 母乳	xgeb	8060000
+母乳	xyeb	8060000
 縛	xgef	4320000
 缚	xgef	5190000
 綪	xgeg	458000
 𦂪	xgel	0
 母爱	xgep	3140000
+母爱	xyep	3140000
 母腹	xget	115000
+母腹	xyet	115000
 𦇁	xget	0
 𧰲	xgeu	0
 䋠	xgey	180
@@ -127050,6 +127124,7 @@ U盘	uute	31900000
 𥾧	xgmh	0
 𦄧	xgmj	0
 母婴	xgmm	19400000
+母婴	xymm	19400000
 𦅎	xgmo	0
 䋑	xgmw	3780
 纚	xgmx	65400
@@ -127060,6 +127135,7 @@ U盘	uute	31900000
 纯情	xgng	8200000
 𥾳	xgnq	0
 母性	xgnt	2810000
+母性	xynt	2810000
 纯属	xgnt	8120000
 线性	xgnt	7640000
 𢎧	xgnv	0
@@ -127085,26 +127161,33 @@ U盘	uute	31900000
 𦃾	xgqo	0
 纯金	xgqq	1380000
 母狗	xgqt	1050000
+母狗	xyqt	1050000
 绚丽多姿	xgqu	388000
 纯银	xgqv	5250000
 线报	xgrb	515000
 母后	xgrg	1140000
+母后	xyrg	1140000
 㣇	xgrh	4150
 㣈	xgrh	4150
 母牛	xgrh	1140000
+母牛	xyrh	1140000
 𢑩	xgrh	0
 𢑛	xgri	0
 𨽽	xgri	0
 纯白	xgrr	2590000
 母权	xgsc	22700
+母权	xysc	22700
 线材	xgsf	3490000
 母本	xgsg	420000
+母本	xysg	420000
 纯朴	xgsh	1980000
 弱不禁风	xgsm	616000
 纯棉	xgsr	2860000
 母校	xgsu	8160000
+母校	xysu	8160000
 𥿉	xgsy	0
 母盘	xgte	249000
+母盘	xyte	249000
 纯毛	xgtf	173000
 𦄂	xgth	0
 纯利	xgtj	686000
@@ -127112,6 +127195,7 @@ U盘	uute	31900000
 线程	xgtk	9910000
 线条	xgts	9500000
 母系	xgtx	1610000
+母系	xytx	1610000
 㝀	xgub	5220
 毑	xgub	57500
 𡥘	xgub	0
@@ -127130,6 +127214,7 @@ U盘	uute	31900000
 纯净	xguq	10800000
 绩效	xguq	11700000
 母亲	xgus	60000000
+母亲	xyus	60000000
 𣫲	xgus	0
 𧦥	xguy	0
 𨾥	xguy	0
@@ -127138,6 +127223,7 @@ U盘	uute	31900000
 緁	xgvh	38900
 𢏵	xgvh	0
 母女	xgvv	4540000
+母女	xyvv	4540000
 緀	xgvv	54200
 线段	xgwd	728000
 𢑣	xgwd	0
@@ -127157,6 +127243,7 @@ U盘	uute	31900000
 彌	xgwq	5640000
 𢑓	xgwq	0
 母体	xgws	3500000
+母体	xyws	3500000
 㜷	xgwv	9060
 线人	xgww	503000
 纯化	xgwx	1200000
@@ -127166,6 +127253,7 @@ U盘	uute	31900000
 经天纬地	xgxf	260000
 䊺	xgxg	3730
 母线	xgxg	918000
+母线	xyxg	918000
 𢎸	xgxg	0
 縤	xgxi	70500
 缙绅	xgxj	171000
@@ -127178,10 +127266,12 @@ U盘	uute	31900000
 纯熟	xgyb	1140000
 线衣	xgye	154000
 母语	xgyg	1640000
+母语	xyyg	1640000
 线麻	xgys	20000
 彝族	xgyt	3020000
 纯良	xgyv	381000
 母畜	xgyx	137000
+母畜	xyyx	137000
 𦁭	xhac	0
 引荐	xhad	783000
 纑	xhal	45800
@@ -128070,6 +128160,7 @@ U盘	uute	31900000
 张灯结彩	xoxe	447000
 继续	xoxf	161000000
 继母	xoxg	1070000
+继母	xoxy	1070000
 鬻	xoxh	858000
 𤳕	xoxl	0
 粥	xoxn	38600000
@@ -130169,6 +130260,7 @@ U盘	uute	31900000
 遮住	yawy	5790000
 𧬖	yawy	0
 庶母	yaxg	64400
+庶母	yaxy	64400
 试纸	yaxq	1730000
 试试	yaya	38100000
 试衣	yaye	1190000
@@ -135030,7 +135122,9 @@ U盘	uute	31900000
 旋纽	ytxn	65200
 谢绝	ytxq	5750000
 誨	ytxu	614000
+誨	ytxy	614000
 诲	ytxu	3360000
+诲	ytxy	3360000
 放纵	ytxw	4970000
 许诺	ytya	2410000
 放弃	ytyc	60500000
@@ -135486,6 +135580,7 @@ U盘	uute	31900000
 谀	yvwy	890000
 𨿶	yvwy	0
 良母	yvxg	70700
+良母	yvxy	70700
 良缘	yvxx	2590000
 朗诵	yvyc	4120000
 唐诗	yvyf	4490000
