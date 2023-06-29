@@ -41,6 +41,9 @@ engine:
     - punct_translator
     - table_translator
     - reverse_lookup_translator
+  filters:
+    - reverse_lookup_filter@wubi_reverse_lookup
+    - reverse_lookup_filter@pinyin_reverse_lookup
 
 speller:
   delimiter: " '"
@@ -48,11 +51,11 @@ speller:
 
 translator:
   dictionary: wubi86
-  enable_charset_filter: true
+  enable_charset_filter: false
   enable_completion: true
-  enable_sentence: false
-  enable_encoder: false
-  encode_commit_history: false
+  enable_sentence: true
+  enable_encoder: true
+  encode_commit_history: true
   enable_user_dict: true
 
 reverse_lookup:
@@ -75,6 +78,32 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*$"
+    wubi_comment: "^[a-z]*z[a-z]*$"
+    pinyin_comment: "^[a-y]?[a-y]?[a-y]?[a-y]?$"
+
+wubi_reverse_lookup:
+  tags: [ wubi_comment ]
+  dictionary: wubi86go-ext
+  comment_format:
+    - xform/^/ /
+
+pinyin_reverse_lookup:
+  tags: [ pinyin_comment ]
+  dictionary: pinyin123
+  comment_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - xform/^/ (/
+    - xform/$/)
+
+pinyin:
+  tag: pinyin
+  dictionary: pinyin123
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 style:
-  horizontal: true
+  horizontal: false
