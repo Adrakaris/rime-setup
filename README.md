@@ -17,13 +17,28 @@
 
 东方符号：
 * 注意：zzzz + 相等拼音第一字母
+* 拼音字母 ǎ：zzpy + 相等的字母【注：ü等用v】
+* 偏旁：用拆字法拼，或用zzpp搜
+* 平仮名 Hiragana：用zzh + 罗马字
+* 片仮名 Katakana：用zzk + 罗马字
 
 欧洲符号：
 * 希腊语：zzxl + 相等拉丁第一字母〔xl=希腊〕
-* 俄语：zzcy + 相等拉丁第一字母〔cy=cyrillic〕
+* 俄语：zzcy + 相等拉丁第一字母〔cy=cyrillic〕【注：ъь用「‘」键】
 
 数字等无类符号：
 * 圈数 ① ：zzqs + a-j 〔qs=圈数〕
 * 括号数 ㈠ ：zzks + a-j〔ks=括(号)数〕
 * 罗马数 ⅰ ：zzlm + a-j〔lm=罗马〕
+* 数学符号（如+ - × ÷等）：zzsx，没有特殊码需要全搜
+* Wingdings：zzwd + 请看表
+
+.| .| . |.  |.
+-|-|-|-|-
+℃ c | ° d | ‰ m | ♂ n | ♀ n
+§ s | № n | ☆ s | ★ s| ○ y
+● y| ◎ y | ◇ d | ◆ d| □ f
+■ f| △ t| ▲ t| ※ x| 〓 e
+＃ h| ＆ a| ＠ a| ＼ b| ＾ c
+＿ u| ￣ o
 
