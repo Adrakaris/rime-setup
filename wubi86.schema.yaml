@@ -20,6 +20,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: extended_charset
+    states: [ 常, 扩 ]
 
 engine:
   processors:
@@ -51,7 +53,7 @@ speller:
 
 translator:
   dictionary: wubi86
-  enable_charset_filter: false
+  enable_charset_filter: true
   enable_completion: true
   enable_sentence: true
   enable_encoder: true
