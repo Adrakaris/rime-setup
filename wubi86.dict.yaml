@@ -1190,6 +1190,7 @@ encoder:
 𥁂	blf	0
 䧃	blg	3350
 阵	blh	53900000
+阵	blg	53900000
 陣	blh	21900000
 𨸺	blh	0
 勐	bll	1120000
@@ -1593,12 +1594,14 @@ encoder:
 𡘃	dlf	0
 䦉	dlg	3820
 砗	dlh	340000
+砗	dlg	340000
 硨	dlh	104000
 𥑐	dlh	0
 𨊦	dlj	0
 㕅	dlk	4630
-厍	dlk	1100000
-厙	dlk	1110000
+厍	dlk	1110000
+厍	dld	1110000
+厙	dlk	1100000
 劯	dln	108000
 𠡉	dln	0
 历	dlv	40400000
@@ -3801,6 +3804,7 @@ encoder:
 𤆗	lou	0
 𤰹	loy	0
 连	lpk	423000000
+连	lpd	423000000
 連	lpk	126000000
 𨒇	lpk	0
 畹	lpq	934000
@@ -4702,6 +4706,7 @@ encoder:
 寰	plg	5020000
 皲	plh	640000
 军	plj	142000000
+军	plf	142000000
 軍	plj	37700000
 冗	pmb	3360000
 宂	pmb	41700
@@ -6966,6 +6971,7 @@ encoder:
 佃	wlg	2190000
 𠇻	wlg	0
 伡	wlh	92800
+伡	wlg	92800
 俥	wlh	110000
 𠇺	wlh	0
 𠇚	wlj	0
@@ -7541,6 +7547,7 @@ encoder:
 𧦵	ylg	0
 䛅	ylh	3190
 库	ylk	622000000
+库	yld	622000000
 庘	ylk	73200
 庫	ylk	61900000
 𠠼	yln	97
@@ -12230,6 +12237,7 @@ AA制	aarm	985000
 蒙恩	apld	519000
 蒙罩	aplh	8740
 荤	aplj	6200000
+荤	aplf	6200000
 葷	aplj	726000
 劳驾	aplk	295000
 蒙田	apll	367000
@@ -40541,6 +40549,7 @@ AA制	aarm	985000
 不宁唯是	gpkj	9840
 𩃅	gpkk	0
 珲	gplh	394000
+珲	gplg	394000
 琿	gplh	219000
 不容置喙	gplk	38700
 璭	gplp	43400
@@ -49562,6 +49571,7 @@ AA制	aarm	985000
 𡓪	iplf	0
 𡮝	iplf	0
 浑	iplh	6020000
+浑	iplg	6020000
 渾	iplh	1020000
 𡭵	iplj	0
 浑圆	iplk	1020000
@@ -54747,9 +54757,11 @@ AA制	aarm	985000
 𧎡	jpkk	0
 晕车	jplg	2190000
 晖	jplh	9930000
+晖	jplg	9930000
 暉	jplh	2380000
 𧎊	jplh	0
 晕	jplj	94900000
+晕	jplf	94900000
 暈	jplj	8800000
 晕圈	jplu	57100
 𤲥	jpmh	0
@@ -62733,6 +62745,7 @@ AA制	aarm	985000
 𨊮	lgng	0
 畏惧	lgnh	4860000
 车	lgnh	844000000
+车	lgng	844000000
 畏避	lgnk	54800
 国书	lgnn	155000
 𤭔	lgnn	0
@@ -72087,6 +72100,7 @@ AA制	aarm	985000
 惋叹	npkc	24500
 𢞏	npkk	0
 恽	nplh	701000
+恽	nplg	701000
 惲	nplh	86200
 𦑩	nplh	0
 翚	nplj	154000
@@ -92235,6 +92249,7 @@ AA制	aarm	985000
 拍案叫绝	rpkx	568000
 近因	rpld	238000
 挥	rplh	29700000
+挥	rplg	29700000
 揮	rplh	5980000
 𤾈	rplh	0
 气宇轩昂	rplj	578000
@@ -133958,6 +133973,7 @@ U盘	uute	31900000
 这叫	ypkn	6100000
 諢	yplh	75300
 诨	yplh	408000
+诨	yplg	408000
 𣄈	yplh	0
 这回	yplk	12100000
 𢉦	yplk	0
