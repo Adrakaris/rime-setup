@@ -1286,7 +1286,7 @@ encoder:
 劲	cal	62800000
 迳	cap	1560000
 驱	caq	78500000
-戏	cat	46800000
+戏	cay	46800000
 𩢅	cat	0
 巯	cay	212000
 骤	cbc	8130000
@@ -2797,7 +2797,7 @@ encoder:
 涞	igo	1130000
 洌	igq	1310000
 沫	igs	7560000
-浅	igt	71000000
+浅	igy	71000000
 浃	igu	256000
 滤	iha	17700000
 波	ihc	182000000
@@ -3993,7 +3993,7 @@ encoder:
 屿	mgn	3540000
 崃	mgo	941000
 夙	mgq	1740000
-贱	mgt	16200000
+贱	mgy	16200000
 峡	mgu	9010000
 凪	mhd	2000000
 帱	mhd	86200
@@ -4924,7 +4924,7 @@ encoder:
 鲍	qgq	22100000
 鳇	qgr	118000
 鳔	qgs	121000
-钱	qgt	333000000
+钱	qgy	333000000
 鲜	qgu	41800000
 鲟	qgv	855000
 鲋	qgw	312000
@@ -5666,7 +5666,7 @@ encoder:
 酡	sgp	743000
 酌	sgq	5760000
 酊	sgs	909000
-栈	sgt	3410000
+栈	sgy	3410000
 枰	sgu	1720000
 酚	sgw	8610000
 酯	sgx	28100000
@@ -5996,6 +5996,7 @@ encoder:
 策	tgm	34700000
 徕	tgo	3350000
 笺	tgr	2330000
+笺	tgu	2330000
 秣	tgs	832000
 秤	tgu	6250000
 秉	tgv	6990000
@@ -7227,7 +7228,7 @@ encoder:
 缰	xgl	1730000
 绩	xgm	6910000
 彝	xgo	3090000
-线	xgt	533000000
+线	xgy	533000000
 母	xgu	143000000
 彘	xgx	698000
 䊼	xhg	4170
@@ -40776,6 +40777,7 @@ AA制	aarm	985000
 𠀘	gqgq	0
 𠀩	gqgs	0
 𣧣	gqgs	0
+残	gqgy	76800000
 残	gqgt	76800000
 一钱不值	gqgw	181000
 𣧰	gqgw	0
@@ -45819,7 +45821,7 @@ AA制	aarm	985000
 鸿蒙	iaap	420000
 港区	iaaq	11000000
 㵩	iaas	5360
-淺	iaat	11900000
+淺	iaay	11900000
 沏茶	iaaw	508000
 𣸂	iaaw	0
 𣾁	iaaw	0
@@ -48837,7 +48839,7 @@ AA制	aarm	985000
 没来	imgo	11700000
 清风两袖	imgp	50000
 洬	imgq	58300
-溅	imgt	15500000
+溅	imgy	15500000
 溦	imgt	192000
 澂	imgt	235000
 溰	imgu	31100
@@ -57899,7 +57901,7 @@ AA制	aarm	985000
 别具一格	khgs	1680000
 𧿴	khgs	0
 𨃮	khgs	0
-践	khgt	4790000
+践	khgy	4790000
 𨂤	khgt	0
 𨅺	khgt	0
 𨆙	khgt	0
@@ -65042,8 +65044,8 @@ AA制	aarm	985000
 典范	maai	8800000
 曲艺	maan	5900000
 𡸚	maar	0
-㟞	maat	3680
-賤	maat	6260000
+㟞	maay	3680
+賤	maay	6260000
 曲子	mabb	3810000
 曲阳	mabj	1020000
 𡽮	mabo	0
@@ -81160,7 +81162,7 @@ AA制	aarm	985000
 𪈇	qaao	0
 昏蒙	qaap	23900
 鐷	qaas	40500
-錢	qaat	59200000
+錢	qaay	59200000
 昏花	qaaw	399000
 钳子	qabb	1080000
 𨯛	qabc	0
@@ -84200,7 +84202,7 @@ AA制	aarm	985000
 𩠄	qngo	0
 饿死	qngq	3550000
 锯末	qngs	1070000
-饯	qngt	434000
+饯	qngy	434000
 饾	qngu	50600
 独异于人	qngw	18500
 𩠃	qngw	0
@@ -95435,7 +95437,7 @@ AA制	aarm	985000
 棋艺	saan	352000
 𣜿	saas	0
 𣟒	saas	0
-棧	saat	4790000
+棧	saay	4790000
 横切	saav	626000
 𣡛	saav	0
 横巷	saaw	78100
@@ -100547,7 +100549,7 @@ AA制	aarm	985000
 长蔓	taaj	18200
 𠠀	taaj	0
 𥵃	taal	0
-箋	taar	1320000
+箋	taau	1320000
 㣤	taat	4100
 乱蓬蓬	taat	373000
 𥟥	taat	0
@@ -106951,7 +106953,7 @@ T型台	tgck	383000
 千钧一发	tqgn	682000
 𥬜	tqgn	0
 循名责实	tqgp	10200
-篯	tqgr	45100
+篯	tqgu	45100
 𥣎	tqgu	0
 千金一诺	tqgy	71300
 𥬿	tqhf	0
@@ -126210,7 +126212,7 @@ U盘	uute	31900000
 绿莹莹	xaap	139000
 绿葱葱	xaaq	15800
 𤾊	xaar	0
-綫	xaat	1560000
+綫	xaay	1560000
 红苕	xaav	259000
 红花	xaaw	3980000
 红茶	xaaw	4100000
