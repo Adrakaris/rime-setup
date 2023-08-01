@@ -9693,6 +9693,7 @@ AA制	aarm	985000
 𩉷	afxn	0
 𩋧	afxr	0
 鞿	afxt	41100
+鞿	afxw	41100
 蕾丝	afxx	5560000
 𩉫	afxx	0
 苇席	afya	73300
@@ -22816,6 +22817,7 @@ AA制	aarm	985000
 耕织	dixk	142000
 砂纸	dixq	763000
 耭	dixt	31400
+耭	dixw	31400
 𦔁	diyc	0
 𦔓	diyc	0
 𦔗	diyc	0
@@ -23908,6 +23910,7 @@ AA制	aarm	985000
 𪁋	dnno	0
 大局已定	dnnp	369000
 成	dnnt	723000000
+成	dnny	72300
 成性	dnnt	864000
 𢘱	dnnt	0
 𠨰	dnnv	0
@@ -24059,6 +24062,7 @@ AA制	aarm	985000
 万变	dnyo	2300000
 㦮	dnyt	4080
 戊	dnyt	5990000
+戊	dnty	5990000
 盛放	dnyt	1660000
 成说	dnyu	639000
 盛唐	dnyv	2720000
@@ -25824,6 +25828,7 @@ AA制	aarm	985000
 砒	dxxn	532000
 䃈	dxxr	5080
 磯	dxxt	3820000
+磯	dxxw	3820000
 𠨽	dxxv	0
 袭	dxye	51300000
 大张旗鼓	dxyf	1610000
@@ -31943,6 +31948,7 @@ AA制	aarm	985000
 䟏	fhxs	3430
 𡍥	fhxs	0
 䟇	fhxt	3150
+䟇	fhxw	3150
 起疑	fhxt	807000
 𧺊	fhxv	0
 真丝	fhxx	3060000
@@ -36102,6 +36108,7 @@ AA制	aarm	985000
 㘩	fxxn	4400
 堦	fxxr	82500
 㙨	fxxt	4140
+㙨	fxxw	4140
 霛	fxxx	107000
 𡎭	fxyq	0
 𡔖	fxyt	0
@@ -42338,6 +42345,7 @@ AA制	aarm	985000
 瑎	gxxr	41700
 𣂱	gxxr	0
 璣	gxxt	265000
+璣	gxxw	265000
 毒谋	gxya	6440
 互译	gxyc	1590000
 毒计	gxyf	192000
@@ -56149,6 +56157,7 @@ AA制	aarm	985000
 鵾	jxxo	45000
 蝔	jxxr	45600
 蟣	jxxt	31900
+蟣	jxxw	31900
 歞	jxxw	28900
 𣊉	jxxw	0
 𨿪	jxxy	0
@@ -61368,6 +61377,7 @@ AA制	aarm	985000
 𡄉	kxxq	0
 喈	kxxr	330000
 嘰	kxxt	1190000
+嘰	kxxw	1190000
 𠸃	kxxw	0
 𡆕	kxyn	0
 𡆝	kxyw	0
@@ -81180,6 +81190,7 @@ AA制	aarm	985000
 𥘇	pyxn	0
 𥚺	pyxr	0
 禨	pyxt	45800
+禨	pyxw	45800
 𥛺	pyxw	0
 䃾	pyxx	4540
 礼毕	pyxx	255000
@@ -88097,6 +88108,7 @@ AA制	aarm	985000
 鍇	qxxr	98800
 锴	qxxr	994000
 鐖	qxxt	1150000
+鐖	qxxw	1150000
 𨩸	qxxw	0
 𨰽	qxyo	0
 𨰼	qxyq	0
@@ -97381,6 +97393,7 @@ AA制	aarm	985000
 𨡦	sgxn	0
 䤕	sgxs	3630
 䤒	sgxt	4440
+䤒	sgxw	4440
 本乡	sgxt	440000
 𣕬	sgxu	0
 桋	sgxw	33500
@@ -100423,6 +100436,7 @@ AA制	aarm	985000
 檵	sxxn	108000
 楷	sxxr	3100000
 機	sxxt	163000000
+機	sxxw	163000000
 𣡵	sxys	0
 㭹	sxyx	6030
 𣡩	sxyx	0
@@ -109513,6 +109527,7 @@ T恤	ttnt	30300000
 籪	txxr	72900
 𢔡	txxr	0
 穖	txxt	55400
+穖	txxw	55400
 𡢛	txxv	0
 𥳏	txxw	0
 系统	txxy	358000000
@@ -122809,6 +122824,7 @@ U盘	uute	31900000
 佗	wpxn	2410000
 八宝粥	wpxo	640000
 饑	wpxt	1250000
+饑	wpxw	1250000
 仰之弥高	wpxy	73900
 饝	wpyd	22500
 餏	wpye	19400
@@ -125172,6 +125188,7 @@ U盘	uute	31900000
 华约	wxxq	78600
 偕	wxxr	4140000
 僟	wxxt	64700
+僟	wxxw	64700
 化纤	wxxt	6370000
 𠊨	wxxw	0
 化缘	wxxx	474000
@@ -126107,6 +126124,7 @@ U盘	uute	31900000
 餘	wyvt	13500000
 饊	wyvt	32400
 饑	wyvt	1250000
+饑	wyvw	1250000
 饖	wyvt	20500
 𩚙	wyvt	0
 𩜁	wyvt	0
@@ -129552,12 +129570,15 @@ U盘	uute	31900000
 纺织厂	xxdg	1050000
 结绳而治	xxdi	712
 𠟣	xxdj	0
+𠟣	xxaj	0
 𢐈	xxdj	0
 𨍃	xxdl	0
 𩕛	xxdm	0
 㡮	xxdn	4840
+㡮	xxan	4840
 𢇒	xxdn	0
 㡬	xxdt	4690
+㡬	xxaq	4690
 幾	xxdt	72600000
 缘故	xxdt	9480000
 𡗬	xxdu	0
@@ -136259,6 +136280,7 @@ U盘	uute	31900000
 諧	yxxr	1380000
 谐	yxxr	4380000
 譏	yxxt	827000
+譏	yxxw	827000
 庇	yxxv	2630000
 𧩿	yxxw	0
 孶	yxyb	28800
