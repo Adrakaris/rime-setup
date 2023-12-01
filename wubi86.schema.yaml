@@ -7,6 +7,7 @@ schema:
   version: "1.0.1"
   author:
     - 发明人 王永民
+    - 修改者 燕文院
   description: |
     五笔86版
     敲 ` 键进入拼音反查
