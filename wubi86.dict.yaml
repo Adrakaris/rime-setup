@@ -7540,6 +7540,7 @@ encoder:
 课	yjs	186000000
 蚉	yju	34900
 𢇞	ykd	0
+哀	yke	92200000
 吝	ykf	1670000
 误	ykg	92200000
 𧥣	ykg	0
@@ -7744,74 +7745,6 @@ encoder:
 廊	yyv	31900000
 谇	yyw	207000
 言	yyy	287000000
-⒈	zzd	1000
-⒉	zzd	999
-⒊	zzd	998
-⒋	zzd	997
-⒌	zzd	996
-⒍	zzd	995
-⒎	zzd	994
-⒏	zzd	993
-⒐	zzd	992
-⒑	zzd	991
-⒒	zzd	990
-⒓	zzd	989
-⒔	zzd	988
-⒕	zzd	987
-⒖	zzd	986
-⒗	zzd	985
-⒘	zzd	984
-⒙	zzd	983
-⒚	zzd	982
-⒛	zzd	981
-⑴	zzf	980
-⑵	zzf	979
-⑶	zzf	978
-⑷	zzf	977
-⑸	zzf	976
-⑹	zzf	975
-⑺	zzf	974
-⑻	zzf	973
-⑼	zzf	972
-⑽	zzf	971
-⑾	zzf	970
-⑿	zzf	969
-⒀	zzf	968
-⒁	zzf	967
-⒂	zzf	966
-⒃	zzf	965
-⒄	zzf	964
-⒅	zzf	963
-⒆	zzf	962
-⒇	zzf	961
-→	zzj	960
-↑	zzj	959
-←	zzj	958
-↓	zzj	957
-↖	zzj	956
-↗	zzj	955
-↘	zzj	954
-↙	zzj	953
-①	zzy	952
-②	zzy	951
-③	zzy	950
-④	zzy	949
-⑤	zzy	948
-⑥	zzy	947
-⑦	zzy	946
-⑧	zzy	945
-⑨	zzy	944
-⑩	zzy	943
-㈠	zzz	942
-㈡	zzz	941
-㈢	zzz	940
-㈣	zzz	939
-㈤	zzz	938
-㈥	zzz	937
-㈦	zzz	936
-㈧	zzz	935
-㈨	zzz	934
-㈩	zzz	933
 㠭	aaaa	6160
 工	aaaa	551000000
 恭恭敬敬	aaaa	672000
@@ -13874,6 +13807,7 @@ AA制	aarm	985000
 𣁙	awfy	0
 𩁞	awfy	0
 花开	awga	23100000
+巷弄	awga	2310000
 菕	awga	40000
 葊	awga	28300
 蘥	awga	25000
@@ -45896,6 +45830,7 @@ AA制	aarm	985000
 𣾛	iabg	0
 汇出	iabm	855000
 满院	iabp	335000
+江孜	iabt	335000
 𤄓	iabw	0
 江防	iaby	108000
 泄劲	iaca	20000
@@ -48628,6 +48563,7 @@ AA制	aarm	985000
 涢	ikmy	2600000
 溳	ikmy	44900
 𣷢	ikne	0
+市中心	ikny	2600000
 溃烂	ikou	862000
 掌中宝	ikpg	620000
 溃军	ikpl	47900
@@ -67481,6 +67417,7 @@ AA制	aarm	985000
 岂非	mndj	2060000
 𡵗	mndu	0
 见性成佛	mndw	94300
+𫖮	mndy	744000
 风情月债	mnew	11000
 嶎	mnff	271000
 崛起	mnfh	19400000
@@ -105757,6 +105694,7 @@ T型台	tgck	383000
 𧖼	tltk	0
 自轻自贱	tltm	29000
 𩕄	tltm	0
+粵	tltn	900000
 利国利民	tltn	689000
 血管	tltp	40400000
 𨖼	tltp	0
@@ -136699,1014 +136637,1013 @@ U盘	uute	31900000
 方言	yyyy	12400000
 言	yyyy	287000000
 𧮦	yyyy	0
-“”	zzbd	1000
-‘’	zzbd	999
-《》	zzbd	998
-〈〉	zzbd	997
-〔〕	zzbd	996
-「」	zzbd	995
-『』	zzbd	994
-【】	zzbd	993
-〖〗	zzbd	992
-（）	zzbd	991
-［］	zzbd	990
-｛｝	zzbd	989
-．	zzbd	988
-。	zzbd	987
-，	zzbd	986
-、	zzbd	985
-；	zzbd	984
-：	zzbd	983
-？	zzbd	982
-！	zzbd	981
-…	zzbd	980
-—	zzbd	979
-·	zzbd	978
-ˉ	zzbd	977
-ˇ	zzbd	976
-¨	zzbd	975
-々	zzbd	974
-～	zzbd	973
-‖	zzbd	972
-∶	zzbd	971
-＂	zzbd	970
-＇	zzbd	969
-｀	zzbd	968
-｜	zzbd	967
-゛	zzdd	656
-゜	zzdd	655
-ゝ	zzdd	654
-ゞ	zzdd	653
-⑴	zzfs	863
-⑵	zzfs	862
-⑶	zzfs	861
-⑷	zzfs	860
-⑸	zzfs	859
-⑹	zzfs	858
-⑺	zzfs	857
-⑻	zzfs	856
-⑼	zzfs	855
-⑽	zzfs	854
-⑾	zzfs	853
-⑿	zzfs	852
-⒀	zzfs	851
-⒁	zzfs	850
-⒂	zzfs	849
-⒃	zzfs	848
-⒄	zzfs	847
-⒅	zzfs	846
-⒆	zzfs	845
-⒇	zzfs	844
-€	zzhb	843
-＄	zzhb	842
-￠	zzhb	841
-￡	zzhb	840
-￥	zzhb	839
-¤	zzhb	838
-→	zzjt	747
-↑	zzjt	746
-←	zzjt	745
-↓	zzjt	744
-↖	zzjt	743
-↗	zzjt	742
-↘	zzjt	741
-↙	zzjt	740
-勹	zzpp	652
-灬	zzpp	651
-冫	zzpp	650
-艹	zzpp	649
-屮	zzpp	648
-辶	zzpp	647
-刂	zzpp	646
-匚	zzpp	645
-阝	zzpp	644
-廾	zzpp	643
-丨	zzpp	642
-虍	zzpp	641
-彐	zzpp	640
-卩	zzpp	639
-钅	zzpp	638
-冂	zzpp	637
-冖	zzpp	636
-宀	zzpp	635
-疒	zzpp	634
-肀	zzpp	633
-丿	zzpp	632
-攵	zzpp	631
-凵	zzpp	630
-犭	zzpp	629
-亻	zzpp	628
-彡	zzpp	627
-饣	zzpp	626
-礻	zzpp	625
-扌	zzpp	624
-氵	zzpp	623
-纟	zzpp	622
-亠	zzpp	621
-囗	zzpp	620
-忄	zzpp	619
-讠	zzpp	618
-衤	zzpp	617
-廴	zzpp	616
-尢	zzpp	615
-夂	zzpp	614
-丶	zzpp	613
-＋	zzsx	586
-－	zzsx	585
-＜	zzsx	584
-＝	zzsx	583
-＞	zzsx	582
-±	zzsx	581
-×	zzsx	580
-÷	zzsx	579
-∈	zzsx	578
-∏	zzsx	577
-∑	zzsx	576
-∕	zzsx	575
-√	zzsx	574
-∝	zzsx	573
-∞	zzsx	572
-∟	zzsx	571
-∠	zzsx	570
-∣	zzsx	569
-∥	zzsx	568
-∧	zzsx	567
-∨	zzsx	566
-∩	zzsx	565
-∪	zzsx	564
-∫	zzsx	563
-∮	zzsx	562
-∴	zzsx	561
-∵	zzsx	560
-∶	zzsx	559
-∷	zzsx	558
-∽	zzsx	557
-≈	zzsx	556
-≌	zzsx	555
-≒	zzsx	554
-≠	zzsx	553
-≡	zzsx	552
-≤	zzsx	551
-≥	zzsx	550
-≦	zzsx	549
-≧	zzsx	548
-≮	zzsx	547
-≯	zzsx	546
-⊕	zzsx	545
-⊙	zzsx	544
-⊥	zzsx	543
-⊿	zzsx	542
-Ъ	zzcy'	940
-Ь	zzcy'	938
-ъ	zzcy'	488
-ь	zzcy'	486
-А	zzcya	966
-а	zzcya	514
-Б	zzcyb	965
-б	zzcyb	513
-Ч	zzcyc	943
-ч	zzcyc	491
-Д	zzcyd	962
-д	zzcyd	510
-Е	zzcye	961
-Э	zzcye	937
-е	zzcye	509
-э	zzcye	485
-Ф	zzcyf	946
-ф	zzcyf	494
-Г	zzcyg	963
-г	zzcyg	511
-Х	zzcyh	945
-х	zzcyh	493
-И	zzcyi	958
-Ю	zzcyi	936
-и	zzcyi	506
-ю	zzcyi	484
-К	zzcyk	956
-к	zzcyk	504
-Л	zzcyl	955
-л	zzcyl	503
-М	zzcym	954
-м	zzcym	502
-Н	zzcyn	953
-н	zzcyn	501
-О	zzcyo	952
-о	zzcyo	500
-П	zzcyp	951
-п	zzcyp	499
-Р	zzcyr	950
-р	zzcyr	498
-С	zzcys	949
-Ш	zzcys	942
-Щ	zzcys	941
-с	zzcys	497
-ш	zzcys	490
-щ	zzcys	489
-Т	zzcyt	948
-Ц	zzcyt	944
-т	zzcyt	496
-ц	zzcyt	492
-У	zzcyu	947
-у	zzcyu	495
-В	zzcyv	964
-в	zzcyv	512
-Й	zzcyy	957
-Ы	zzcyy	939
-Я	zzcyy	935
-Ё	zzcyy	934
-й	zzcyy	505
-ы	zzcyy	487
-я	zzcyy	483
-ё	zzcyy	482
-Ж	zzcyz	960
-З	zzcyz	959
-ж	zzcyz	508
-з	zzcyz	507
-Ⅰ	zzdla	933
-Ⅱ	zzdlb	932
-Ⅲ	zzdlc	931
-Ⅳ	zzdld	930
-Ⅴ	zzdle	929
-Ⅵ	zzdlf	928
-Ⅶ	zzdlg	927
-Ⅷ	zzdlh	926
-Ⅸ	zzdli	925
-Ⅹ	zzdlj	924
-Ⅺ	zzdlk	923
-Ⅻ	zzdll	922
-⒈	zzdsa	921
-⒉	zzdsb	920
-⒊	zzdsc	919
-⒋	zzdsd	918
-⒌	zzdse	917
-⒍	zzdsf	916
-⒎	zzdsg	915
-⒏	zzdsh	914
-⒐	zzdsi	913
-⒑	zzdsj	912
-⒒	zzdsk	911
-⒓	zzdsl	910
-⒔	zzdsm	909
-⒕	zzdsn	908
-⒖	zzdso	907
-⒗	zzdsp	906
-⒘	zzdsq	905
-⒙	zzdsr	904
-⒚	zzdss	903
-⒛	zzdst	902
-㏄	zzdwc	892
-㎎	zzdwg	901
-㎏	zzdwg	900
-μg	zzdwg	893
-㏑	zzdwl	890
-㏒	zzdwl	889
-㎜	zzdwm	899
-㎝	zzdwm	898
-㎞	zzdwm	897
-㎡	zzdwm	896
-nm	zzdwm	895
-μm	zzdwm	894
-㏕	zzdwm	888
-㏎	zzdwn	891
-あ	zpv	100000	#安
-𛀂	zpvf	99999
-𛀂	zpv	99999
-𛀅	zgogn	100000	#恶
-𛀅	zgfgn	99999	#惡
-𛀃	zep	100000	#爱
-𛀃	zepn	99999	#愛
-𛀄	bs	100000	#阿
-𛀄	bsk	99999
-い	zc	100000	#以
-い	znyw	99999
-𛀆	zc	99998
-𛀆	znyw	99997
-𛀇	zwvt	100000	#伊
-𛀈	zujn	100000	#意
-𛀉	ztqq	100000	#移
-う	zpgf	100000	#宇
-𛀊	zpgf	99999
-𛀋	zpgf	99998
-𛀌	zdept	100000	#憂
-𛀌	zndn	99999	#忧
-𛀍	ze	100000	#有
-𛀍	zdef	99999
-𛀎	zffcu	100000	#雲
-𛀎	zfci	50000	#云
-え	zye	100000	#衣
-𛀑	zye	99999
-𛀒	zye	99998	
-𛀁	zia	100000	#江
-𛀏	zecl	100000	#盈
-𛀐	zxv	100000	#绿緑
-𛀓	zs	100000	#要
-お	zywu	100000	#於
-𛀔	zywu	99999
-𛀕	zywu	99998
-か	zlk	100000	#加
-𛀘	zlk	99999
-𛀗	zwffg	100000	#佳
-𛀗	zwff	50000
-𛀙	zsk	100000	#可
-𛀚	zsk	99999	
-𛀛	zfkuk	100000	#嘉
-𛀢	zpe	100000	#家
-𛀜	zq	100000	#我
-𛀝	zgngw	100000	#欤
-𛀝	zvgnw	99999	#歟
-𛀞	zlkm	100000	#贺賀
-𛀞	zlkmu	99999
-𛀟	zusi	100000	#闲閑
-𛀠	ztjf	100000	#香
-𛀡	zlkc	100000	#驾駕
-き	zxxaw	100000	#幾
-き	zmt	99999	#几
-𛀤	zxxaw	99998
-𛀤	zmt	99997
-𛀥	zxxaw	99996
-𛀥	zmt	99995
-𛀣	zfku	100000	#喜
-𛀦	zfc	100000	#支
-𛀻	zadwe	100000	#期
-𛀧	zssss	100000	#木
-𛀨	zpyr	100000	#祈
-𛀩	zkhgm	100000	#貴贵
-𛀪	zfhn	100000	#起
-く	zqy	100000	#久
-𛀫	zqy	99999
-𛀬	zqy	99998
-𛀭	zvtn	100000	#九
-𛀮	zwaw	100000	#供
-𛀯	zwhw	100000	#俱
-𛀰	zhw	100000	#具
-𛀱	zfiy	100000	#求
-け	zyf	100000	#计計
-𛀶	zyf	99999	
-𛀳	zwj	100000	#介
-𛀲	zwj	99999
-𛀴	zqdm	100000	#希
-𛀴	zqdmh	99999	#希
-𛀵	zrno	100000	#氣
-𛀵	zrnb	50000	#气
-𛀷	zkhgp	100000	#遣
-こ	znngn	100000	#己
-こ	znnnn	99999	#已
-𛀸	zdgh	100000	#古
-𛂘	zbb	100000	#子
-𛀹	zdt	100000	#故
-𛀺	zytf	100000	#許许
-さ	zda	100000	#左
-𛀿	zda	99999	
-𛀼	zthf	100000	#乍
-𛀽	zwda	100000	#佐
-𛀾	zwda	99999
-𛁀	zuda	100000	#差
-𛁁	zaet	100000	#散
-𛁂	zwtuf	100000	#斜
-𛁃	ziit	100000	#沙
-し	zpp	100000	#之
-𛁄	zpp	99999	
-𛁅	zpp	99998
-𛁆	zgk	100000	#事
-𛁇	zlh	100000	#四
-𛁈	zfn	100000	#志
-𛁉	zusr	100000	#新
-す	zfghy	100000	#寸
-す	zfyi	99999	
-𛁊	zepc	100000	#受
-𛁋	zdtf	100000	#寿
-𛁋	zfnaf	99999	#壽
-𛁌	zovt	100000	#数
-𛁍	zovt	99998	
-𛁌	zlvt	99999	#數
-𛁍	zlvt	99997	
-𛁎	zdw	100000	#春
-𛁏	zdw	99999	
-𛁐	zed	100000	#须須
-𛁑	zed	99999
-せ	zan	100000	#世
-𛁒	zan	99999
-𛁓	zan	99998
-𛁔	zan	99997
-𛁕	zrvyl	100000	#势
-𛁖	zfnr	50000	#声
-𛁖	zfnmb	100000	#聲
-そ	zul	100000	#曾
-𛁙	zul	99999
-𛁚	zul	99998
-𛁗	zrn	100000	#所
-𛁘	zrn	99999	
-𛁛	zssn	100000	#楚
-𛁜	zaqot	100000	#蘇
-𛁜	zalw	99999	#苏
-𛁝	zhat	100000	#處
-𛁝	zth	99999	#处
-た	zdy	100000	#太
-𛁟	zqq	100000	#多
-𛁠	zqq	99999
-𛁞	zipkf	100000	#堂
-𛁡	zipkl	100000	#當
-𛁡	ziv	99999	#当
-ち	ztd	100000	#知
-𛁥	ztd	99999
-𛁦	ztd	99998
-𛁢	ztfk	100000	#千
-𛁣	zf	100000	#地
-𛁤	ztdkj	100000	#智
-𛁧	zgcft	100000	#致
-𛁨	znirp	100000	#遲
-𛁨	znyp	99999	#迟
-つ	zkthh	100000	#川
-𛁩	zkthh	99999
-𛁪	zkthh	99998
-𛁫	zivfh	100000	#津
-𛁬	zftjb	100000	#都
-𛁭	ztfhy	100000	#徒
-て	zgd	100000	#天
-𛁱	zgd	99999
-𛁲	zgd	99998
-𛁳	zgd	99997
-𛁮	zyps	100000	#亭
-𛁯	zwqa	100000	#低
-𛁰	zwgjf	100000	#傳
-𛁰	zwfny	99999	#传
-𛁴	zup	100000	#帝
-𛁵	zxgf	100000	#弖
-𛂎	zdmj	100000	#而
-𛁶	zlgjf	100000	#轉
-𛁶	zlfn	99999	#转
-と	zhh	100000	#止
-𛁷	zffff	100000	#土
-𛁹	zai	100000	#东
-𛁹	zgji	99999	#東
-𛁸	zya	100000	#度
-𛁺	zwgku	100000	#登
-𛁻	zwgku	99999
-𛁼	zdqay	100000	#砥
-𛁽	ztffu	100000	#等
-な	zdfi	100000	#奈
-𛂀	zdfi	99999
-𛂁	zdfi	99998
-𛂂	zdfi	99997
-𛁾	zfm	100000	#南
-𛁿	zqk	100000	#名
-𛂃	zaes	100000	#菜
-𛂄	zvfb	100000	#那
-𛂅	zvfb	99999
-𛂆	zakfy	100000	#難
-𛂆	zcw	50000	#难
-に	zwfg	100000	#仁
-𛂉	zwfg	99999
-𛂇	zmyd	100000	#丹
-𛂈	zfg	100000	#二
-𛂊	zvqb	100000	#兒
-𛂊	zqt	50000	#儿
-𛂋	zqiu	100000	#尔
-𛂌	zqiu	99999	
-𛂋	zgwm	100000	#爾
-𛂌	zgwm	99999	
-𛂍	zbgh	100000	#耳
-ぬ	zvcy	100000	#奴
-𛂐	zvcy	99999	
-𛂏	zvcl	100000	#努
-𛂑	zvcn	100000	#怒
-ね	zpyq	100000	#祢
-𛂗	zpygq	100000	#禰
-𛂒	zrh	100000	#年
-𛂓	zrh	99999	
-𛂔	zrh	99999
-𛂕	zsve	100000	#根
-𛂖	zrvyo	100000	#热
-𛂖	zfwfo	100000	#熱
-の	zetn	100000	#乃
-𛂙	zetn	99999
-𛂚	zimae	100000	#濃
-𛂚	zipe	99999	#浓
-𛂛	zce	100000	#能
-𛂜	zce	99999	
-𛂝	zmade	100000	#農
-𛂝	zpei	50000	#农
-は	zihc	100000	#波
-𛂡	zihc	99999	
-𛂞	zwty	100000	#八
-𛂟	zuf	100000	#半
-𛂠	zihcv	100000	#婆
-𛂢	zteml	100000	#盤
-𛂣	zteml	99999	
-𛂢	ztel	50000	#盘
-𛂣	ztel	49999	
-𛂤	zdhc	100000	#破
-𛂥	zftj	100000	#者
-𛂦	zftj	99999
-𛂧	zaans	100000	#葉
-𛂧	zkf	50000	#叶
-𛂨	zhcdm	100000	#颇
-ひ	zxx	100000	#比
-𛂫	zxx	99999	
-𛂪	zjjjj	100000	#日
-𛂩	zdjdn	100000	#悲
-𛂭	zdjd	100000	#非
-𛂬	znk	100000	#避
-𛂮	znutj	100000	#飛
-𛂯	znutj	99999	
-𛂮	znui	50000	#飞
-𛂯	znui	49999
-ふ	zi	100000	#不
-𛂰	zi	99999	#不
-𛂱	zvv	50000	#妇
-𛂱	zvvph	100000	#婦
-𛂲	zdmh	100000	#布
-へ	zuk	100000	#部
-𛂹	zuk	99999
-𛂳	zwuk	100000	#倍
-𛂴	zumia	100000	#弊
-𛂵	zumia	99999
-𛂶	zynm	100000	#遍
-𛂷	zthpp	100000	#邊
-𛂸	zthpp	99999
-𛂷	zthpp	50000	#边
-𛂸	zthpp	49999
-ほ	zwk	100000	#保
-𛂺	zwk	99999
-𛂻	zwk	99998
-𛂼	zfufc	100000	#報
-𛂼	zrb	50000	#报
-𛂽	zdwf	100000	#奉
-𛂾	zpgy	50000	#宝
-𛂾	zpgr	100000	#寶
-𛂿	zsg	100000	#本
-𛃀	zsg	99999
-𛃁	zdh	50000	#丰
-𛃁	zdhdu	100000	#豐
-ま	zgs	100000	#末
-𛃃	zgs	99999
-𛃄	zgs	99998
-𛃂	zdnv	100000	#万
-𛃇	zajmy	100000	#萬
-𛃇	zdnv	50000	#万
-𛃅	ziamy	100000	#滿
-𛃆	ziamy	99999	
-𛃅	ziagw	50000	#滿
-𛃆	ziagw	49999	
-𛃈	zyss	100000	#麻
-𛃖	zcgh	100000	#馬
-𛃖	zcn	50000	#马
-み	zugdu	100000	#美
-𛃋	zugdu	99999
-𛃌	zugdu	99998
-𛃍	zugdu	99997
-𛃉	zdg	100000	#三
-𛃎	zmqb	50000	#见
-𛃎	zhqb	100000	#見
-む	zgah	100000	#武
-𛃐	zgah	99999	#武
-𛃑	zrlgo	100000	#無
-𛃒	zcr	100000	#牟
-ん	zfq	100000	#无
-𛄝	zfq	99999	
-𛄞	zfq	99998	
-め	zvvvv	100000	#女
-𛃔	zqkq	100000	#免
-𛃕	zdm	100000	#面
-も	ztfn	100000	#毛
-𛃘	ztfn	99999	
-𛃙	ztfn	99998
-𛃚	ztfn	99997
-𛃗	zxyyi	100000	#母
-𛃛	zadny	100000	#茂
-𛃜	zipke	100000	#裳
-や	zbn	100000	#也
-𛃝	zbn	99999	
-𛃞	zbn	99998
-𛃟	zngc	100000	#屋
-𛃠	zbbh	100000	#耶
-𛃡	zbbh	99999
-𛃢	zywt	100000	#夜
-ゆ	zmh	100000	#由
-𛃤	zmh	99999
-𛃥	zmh	99998
-𛃣	ziytb	100000	#游
-𛃦	zytbp	100000	#遊
-よ	zgng	100000	#与
-𛃩	zvgnw	50000	#與
-𛃪	zvgnw	49999	
-𛃫	zvgnw	49998
-𛃧	zwa	100000	#代
-𛃨	zwtu	100000	#余
-𛃩	zvgnw	100000	#與
-𛃪	zvgnw	99999	
-𛃫	zvgnw	99998
-𛃬	zqnwt	100000	#馀
-𛃬	zwpwt	100000	#餘
-ら	zyve	100000	#良
-𛃮	zyve	99999
-𛃯	zyve	99998
-𛃰	zyve	99997
-𛃭	zlq	50000	#罗
-𛃭	zlxw	100000	#羅
-り	ztjh	100000	#利
-𛃱	ztjh	99999
-𛃲	ztjh	99998
-𛃳	zsb	100000	#李
-𛃴	ztjs	100000	#梨
-𛃵	zgj	100000	#理
-𛃶	zjfd	100000	#里
-𛃷	zyb	100000	#离離
-る	zqyvl	100000	#留
-𛃹	zqyvl	99999
-𛃺	zqyvl	99998
-𛃻	zqyvl	99997
-𛃸	ziyc	100000	#流
-𛃼	zlxi	100000	#累
-𛃽	zod	100000	#类類
-れ	zpyn	100000	#礼
-𛃿	zpyn	99999
-𛃾	zpyn	49998
-𛃾	zpymu	100000	#禮
-𛄀	zlpd	100000	#连連
-𛄁	zgmy	100000	#丽麗
-ろ	zkk	100000	#吕
-𛄂	zkk	99999
-𛄃	zkk	99998
-ろ	zktk	50000	#吕
-𛄂	zktk	49999
-𛄃	zktk	49998
-𛄄	zlvf	100000	#婁
-𛄄	zov	50000	#娄
-𛄅	zslv	100000	#樓
-𛄅	zsov	50000	#楼
-𛄆	zkhtk	100000	#路
-𛄇	zfkhk	100000	#露
-わ	zt	100000	#和
-𛄉	zt	99999
-𛄊	zt	99998
-𛄈	zwtv	100000	#倭
-𛄋	zgggg	100000	#王
-𛄌	zgggg	99999
-ゐ	zytno	100000	#為
-𛄐	zetno	90000	#爲
-ゐ	zyl	50000	#为
-𛄐	zyl	49999	
-𛄍	zfjk	100000	#井
-𛄎	zfjk	99999
-𛄏	znd	100000	#居
-𛄑	zkhgp	200000	#遗
-ゑ	zgjh	100000	#惠
-𛄒	zgjh	99999
-𛄓	ztnhh	100000	#衛
-𛄔	ztnhh	99999
-𛄕	ztnhh	99998
-𛄓	zbg	50000	#卫
-𛄔	zbg	49999
-𛄕	zbg	49998
-を	zfkep	100000	#遠
-𛄛	zfkep	99999
-𛄜	zfkep	99998
-を	zfkep	50000	#卫
-𛄛	zfkep	49999
-𛄜	zfkep	49998
-𛄖	ztuh	100000	#乎
-𛄗	ztuh	99999
-𛄘	zntf	100000	#尾
-𛄙	zxft	100000	#绪緒
-𛄚	zfha	100000	#越
-あ	zzhaa	739
-ぁ	zzhaa	738
-ば	zzhba	692
-べ	zzhbe	683
-び	zzhbi	689
-ぼ	zzhbo	680
-ぶ	zzhbu	686
-ち	zzhch	707
-だ	zzhda	708
-で	zzhde	701
-ど	zzhdo	699
-え	zzhee	733
-ぇ	zzhee	732
-ゑ	zzhee	659
-ふ	zzhfu	687
-が	zzhga	728
-げ	zzhge	722
-ぎ	zzhgi	726
-ご	zzhgo	720
-ぐ	zzhgu	724
-は	zzhha	693
-へ	zzhhe	684
-ひ	zzhhi	690
-ほ	zzhho	681
-い	zzhii	737
-ぃ	zzhii	736
-ゐ	zzhii	660
-じ	zzhji	716
-ぢ	zzhji	706
-か	zzhka	729
-け	zzhke	723
-き	zzhki	727
-こ	zzhko	721
-く	zzhku	725
-ま	zzhma	678
-め	zzhme	675
-み	zzhmi	677
-も	zzhmo	674
-む	zzhmu	676
-な	zzhna	698
-ね	zzhne	695
-に	zzhni	697
-ん	zzhnn	657
-の	zzhno	694
-ぬ	zzhnu	696
-お	zzhoo	731
-ぉ	zzhoo	730
-を	zzhoo	658
-ぱ	zzhpa	691
-ぺ	zzhpe	682
-ぴ	zzhpi	688
-ぽ	zzhpo	679
-ぷ	zzhpu	685
-ら	zzhra	667
-れ	zzhre	664
-り	zzhri	666
-ろ	zzhro	663
-る	zzhru	665
-さ	zzhsa	719
-せ	zzhse	713
-し	zzhsh	717
-そ	zzhso	711
-す	zzhsu	715
-た	zzhta	709
-て	zzhte	702
-と	zzhto	700
-つ	zzhts	705
-っ	zzhts	704
-う	zzhuu	735
-ぅ	zzhuu	734
-わ	zzhwa	662
-ゎ	zzhwa	661
-や	zzhya	673
-ゃ	zzhya	672
-よ	zzhyo	669
-ょ	zzhyo	668
-ゆ	zzhyu	671
-ゅ	zzhyu	670
-ざ	zzhza	718
-ぜ	zzhze	712
-ぞ	zzhzo	710
-ず	zzhzu	714
-づ	zzhzu	703
-ア	zzkaa	836
-ァ	zzkaa	835
-バ	zzkba	789
-ベ	zzkbe	780
-ビ	zzkbi	786
-ボ	zzkbo	777
-ブ	zzkbu	783
-チ	zzkch	804
-ー	zzkch	750
-ザ	zzkda	815
-ダ	zzkda	805
-デ	zzkde	798
-ド	zzkdo	796
-エ	zzkee	830
-ェ	zzkee	829
-ガ	zzkga	825
-ゲ	zzkge	819
-ギ	zzkgi	823
-ゴ	zzkgo	817
-グ	zzkgu	821
-ハ	zzkha	790
-ヘ	zzkhe	781
-ヒ	zzkhi	787
-ホ	zzkho	778
-フ	zzkhu	784
-イ	zzkii	834
-ィ	zzkii	833
-ジ	zzkji	813
-ヂ	zzkji	803
-カ	zzkka	826
-ヵ	zzkka	752
-ケ	zzkke	820
-ヶ	zzkke	751
-キ	zzkki	824
-コ	zzkko	818
-ク	zzkku	822
-マ	zzkma	775
-メ	zzkme	772
-ミ	zzkmi	774
-モ	zzkmo	771
-ム	zzkmu	773
-ナ	zzkna	795
-ネ	zzkne	792
-ニ	zzkni	794
-ン	zzknn	754
-ノ	zzkno	791
-ヌ	zzknu	793
-ヽ	zzkod	749
-ヾ	zzkod	748
-オ	zzkoo	828
-ォ	zzkoo	827
-パ	zzkpa	788
-ペ	zzkpe	779
-ピ	zzkpi	785
-ポ	zzkpo	776
-プ	zzkpu	782
-ラ	zzkra	764
-レ	zzkre	761
-リ	zzkri	763
-ロ	zzkro	760
-ル	zzkru	762
-サ	zzksa	816
-㈠	zzksa	438
-㈡	zzksb	437
-㈢	zzksc	436
-㈣	zzksd	435
-セ	zzkse	810
-㈤	zzkse	434
-㈥	zzksf	433
-㈦	zzksg	432
-シ	zzksh	814
-㈧	zzksh	431
-㈨	zzksi	430
-㈩	zzksj	429
-ソ	zzkso	808
-ス	zzksu	812
-タ	zzkta	806
-テ	zzkte	799
-ト	zzkto	797
-ツ	zzkts	802
-ッ	zzkts	801
-ウ	zzkuu	832
-ゥ	zzkuu	831
-ヴ	zzkvu	753
-ヮ	zzkwa	759
-ワ	zzkwa	758
-ヱ	zzkwe	756
-ヰ	zzkwi	757
-ヲ	zzkwo	755
-ヤ	zzkya	770
-ャ	zzkya	769
-ヨ	zzkyo	766
-ョ	zzkyo	765
-ユ	zzkyu	768
-ュ	zzkyu	767
-ゼ	zzkze	809
-ゾ	zzkzo	807
-ズ	zzkzu	811
-ヅ	zzkzu	800
-ⅰ	zzlma	481
-ⅱ	zzlmb	480
-ⅲ	zzlmc	479
-ⅳ	zzlmd	478
-ⅴ	zzlme	477
-ⅵ	zzlmf	476
-ⅶ	zzlmg	475
-ⅷ	zzlmh	474
-ⅸ	zzlmi	473
-ⅹ	zzlmj	472
-ā	zzpya	612
-á	zzpya	611
-ǎ	zzpya	610
-à	zzpya	609
-ē	zzpye	603
-é	zzpye	602
-ě	zzpye	601
-è	zzpye	600
-ê	zzpye	599
-ī	zzpyi	599
-í	zzpyi	598
-ǐ	zzpyi	597
-ì	zzpyi	596
-ō	zzpyo	608
-ó	zzpyo	607
-ǒ	zzpyo	606
-ò	zzpyo	605
-ū	zzpyu	590
-ú	zzpyu	589
-ǔ	zzpyu	588
-ù	zzpyu	587
-ǖ	zzpyv	595
-ǘ	zzpyv	594
-ǚ	zzpyv	593
-ǜ	zzpyv	592
-ü	zzpyv	591
-①	zzqsa	448
-②	zzqsb	447
-③	zzqsc	446
-④	zzqsd	445
-⑤	zzqse	444
-⑥	zzqsf	443
-⑦	zzqsg	442
-⑧	zzqsh	441
-⑨	zzqsi	440
-⑩	zzqsj	439
-＆	zzwda	520
-＠	zzwda	519
-＼	zzwdb	518
-℃	zzwdc	541
-＾	zzwdc	517
-°	zzwdd	540
-◇	zzwdd	529
-◆	zzwdd	528
-〓	zzwde	522
-□	zzwdf	527
-■	zzwdf	526
-＃	zzwdh	521
-‰	zzwdm	539
-♂	zzwdn	538
-♀	zzwdn	537
-№	zzwdn	535
-￣	zzwdo	515
-§	zzwds	536
-☆	zzwds	534
-★	zzwds	533
-△	zzwdt	525
-▲	zzwdt	524
-＿	zzwdu	516
-※	zzwdx	523
-○	zzwdy	532
-●	zzwdy	531
-◎	zzwdy	530
-Α	zzxla	887
-α	zzxla	471
-Β	zzxlb	886
-β	zzxlb	470
-Δ	zzxld	884
-δ	zzxld	468
-Ε	zzxle	883
-Η	zzxle	881
-ε	zzxle	467
-η	zzxle	465
-Φ	zzxlf	867
-φ	zzxlf	451
-Γ	zzxlg	885
-γ	zzxlg	469
-Ι	zzxli	879
-ι	zzxli	463
-Κ	zzxlk	878
-κ	zzxlk	462
-Λ	zzxll	877
-λ	zzxll	461
-Μ	zzxlm	876
-μ	zzxlm	460
-Ν	zzxln	875
-ν	zzxln	459
-Ο	zzxlo	873
-Ω	zzxlo	864
-ο	zzxlo	457
-ω	zzxlo	449
-Π	zzxlp	872
-Ψ	zzxlp	865
-π	zzxlp	456
-ψ	zzxlp	450
-Ρ	zzxlr	871
-ρ	zzxlr	455
-Σ	zzxls	870
-σ	zzxls	454
-Θ	zzxlt	880
-Τ	zzxlt	869
-θ	zzxlt	454
-τ	zzxlt	453
-Υ	zzxlu	868
-υ	zzxlu	452
-Ξ	zzxlx	874
-Χ	zzxlx	866
-ξ	zzxlx	458
-χ	zzxlx	450.5
-Ζ	zzxlz	882
-ζ	zzxlz	466
-ㄚ	zzzza	404
-ㄞ	zzzza	400
-ㄠ	zzzza	398
-ㄢ	zzzza	396
-ㄤ	zzzza	394
-ㄅ	zzzzb	428
-ㄔ	zzzzc	413
-ㄘ	zzzzc	409
-ㄉ	zzzzd	424
-ㄜ	zzzze	402
-ㄝ	zzzze	401
-ㄟ	zzzze	399
-ㄣ	zzzze	395
-ㄥ	zzzze	393
-ㄈ	zzzzf	425
-ㄍ	zzzzg	420
-ㄏ	zzzzh	418
-ㄧ	zzzzi	407
-ㄐ	zzzzj	417
-ㄎ	zzzzk	419
-ㄌ	zzzzl	421
-ㄇ	zzzzm	426
-ㄋ	zzzzn	422
-ㄛ	zzzzo	403
-ㄡ	zzzzo	397
-ㄆ	zzzzp	427
-ㄑ	zzzzq	416
-ㄖ	zzzzr	411
-ㄦ	zzzzr	392
-ㄕ	zzzzs	412
-ㄙ	zzzzs	408
-ㄊ	zzzzt	423
-ㄨ	zzzzu	406
-ㄩ	zzzzv	405
-ㄒ	zzzzx	415
-ㄓ	zzzzz	414
-ㄗ	zzzzz	410
+“”	zbrq	1000 	#ZB BRACES quote
+‘’	zbrq	999	
+《》	zbrj	998	#jiao
+〈〉	zbrj	997	
+〔〕	zbrt	996	#turtle
+「」	zbrc	995	#quote chinese
+『』	zbrc	994	
+【】	zbrz	993	#zhu
+〖〗	zbrz	992	
+（）	zbrr	991	#fw round
+［］	zbrs	990	#fw square
+｛｝	zbrl	989	#fw curLy
+．	zdot	988	#ZD DOTS dot
+。	zdcr	987	#circle
+，	zdcm	986	#comma
+、	zdun	985	#dun
+；	zdsm	984	#semic
+：	zdcl	983	#colon
+？	zdqu	982	#ques
+！	zdex	981	#excl
+…	zdel	980	#ellipsis
+—	zdda	979	#dash
+·	zdcd	978	#centre dot
+ˉ	zdma	977	#macron
+ˇ	zdca	976	#caron
+¨	zdum	975	#umlaut
+々	zdrr	974	#repeat
+～	zdtl	973	#tilde
+‖	zddl	972	#double line
+＂	zddq	970	#double quote
+＇	zdsq	969	#single quote
+｀	zdgr	968	#grave
+｜	zdsl	967	#single line
+゛	zdak	656	#dakuten
+゜	zhan	655	#handakuten
+ゝ	zzrr	654	#repeat (japanese hiragana)	
+ゞ	zzrh	653	#repeat (with dakuten)
+⑴	znba	863	#ZNB NUMBER BRACKET
+⑵	znbb	862
+⑶	znbc	861
+⑷	znbd	860
+⑸	znbe	859
+⑹	znbf	858
+⑺	znbg	857
+⑻	znbh	856
+⑼	znbi	855
+⑽	znbj	854
+⑾	znbk	853
+⑿	znbl	852
+⒀	znbm	851
+⒁	znbn	850
+⒂	znbo	849
+⒃	znbp	848
+⒄	znbq	847
+⒅	znbr	846
+⒆	znbs	845
+⒇	znbt	844
+€	zceu	843	#ZC CURRENCY Euro
+＄	zcus	842
+￠	zcuc	841	#US cent
+￡	zcgb	840
+￥	zccn	839
+¤	zczz	838	#ZZ generic currency unit
+→	zae	747	#ZA ARROw 
+↑	zan	746
+←	zaw	745
+↓	zas	744
+↖	zanw	743
+↗	zane	742
+↘	zase	741
+↙	zasw	740
+勹	zpp	652	#ZPP Pianpang
+灬	zpp	651
+冫	zpp	650
+艹	zpp	649
+屮	zpp	648
+辶	zpp	647
+刂	zpp	646
+匚	zpp	645
+阝	zpp	644
+廾	zpp	643
+丨	zpp	642
+虍	zpp	641
+彐	zpp	640
+卩	zpp	639
+钅	zpp	638
+冂	zpp	637
+冖	zpp	636
+宀	zpp	635
+疒	zpp	634
+肀	zpp	633
+丿	zpp	632
+攵	zpp	631
+凵	zpp	630
+犭	zpp	629
+亻	zpp	628
+彡	zpp	627
+饣	zpp	626
+礻	zpp	625
+扌	zpp	624
+氵	zpp	623
+纟	zpp	622
+亠	zpp	621
+囗	zpp	620
+忄	zpp	619
+讠	zpp	618
+衤	zpp	617
+廴	zpp	616
+尢	zpp	615
+夂	zpp	614
+丶	zpp	613
+＋	zmpl	586	#ZM MATHS
+－	zmmn	585
+＜	zmlt	584
+＝	zmeq	583
+＞	zmgt	582
+±	zmpm	581
+×	zmml	580	#mul
+÷	zmdv	579
+∈	zmin	578
+∏	zmpi	577	#PI prod
+∑	zmsi	576	#SI sig
+∕	zmdv	575
+√	zmrt	574
+∝	zmpr	573
+∞	zmin	572
+∟	zmra	571	#right angle
+∠	zmac	570	#acute
+∨	zmor	569
+∣	zmab	568	#abs
+∥	zmnm	567	#norm
+∧	zman	566
+∩	zmca	565	#cap
+∪	zmcu	564	#cup
+∫	zmin	563	#int
+∮	zmio	562	#int-o
+∴	zmth	561	#therefore
+∵	zmbc	560	#because
+∶	zmst	559	#such that
+∷	zmty	558	#type
+∽	zmsi	557	#sim
+≈	zmap	556	#approx
+≌	zmae	555	#approx equals
+≒	zmae	554	#???
+≠	zmne	553	#neq
+≡	zmid	552	
+≤	zmle	551	#leq
+≥	zmge	550	#geq
+≦	zmli	549	#leq identity???
+≧	zmei	548	#???
+≮	zmnl	547	#not less than
+≯	zmng	546
+⊕	zmxo	545	#xor
+⊙	zmod	544	#o-dot
+⊥	zmpe	543	#perpendicular
+⊿	zmtr	542	#triangle
+Ъ	zcy'	940
+Ь	zcy'	938
+ъ	zcy'	488
+ь	zcy'	486
+А	zcya	966
+а	zcya	514
+Б	zcyb	965
+б	zcyb	513
+Ч	zcyc	943
+ч	zcyc	491
+Д	zcyd	962
+д	zcyd	510
+Е	zcye	961
+Э	zcye	937
+е	zcye	509
+э	zcye	485
+Ф	zcyf	946
+ф	zcyf	494
+Г	zcyg	963
+г	zcyg	511
+Х	zcyh	945
+х	zcyh	493
+И	zcyi	958
+Ю	zcyi	936
+и	zcyi	506
+ю	zcyi	484
+К	zcyk	956
+к	zcyk	504
+Л	zcyl	955
+л	zcyl	503
+М	zcym	954
+м	zcym	502
+Н	zcyn	953
+н	zcyn	501
+О	zcyo	952
+о	zcyo	500
+П	zcyp	951
+п	zcyp	499
+Р	zcyr	950
+р	zcyr	498
+С	zcys	949
+Ш	zcys	942
+Щ	zcys	941
+с	zcys	497
+ш	zcys	490
+щ	zcys	489
+Т	zcyt	948
+Ц	zcyt	944
+т	zcyt	496
+ц	zcyt	492
+У	zcyu	947
+у	zcyu	495
+В	zcyv	964
+в	zcyv	512
+Й	zcyy	957
+Ы	zcyy	939
+Я	zcyy	935
+Ё	zcyy	934
+й	zcyy	505
+ы	zcyy	487
+я	zcyy	483
+ё	zcyy	482
+Ж	zcyz	960
+З	zcyz	959
+ж	zcyz	508
+з	zcyz	507
+Ⅰ	zra	933
+Ⅱ	zrb	932
+Ⅲ	zrc	931
+Ⅳ	zrd	930
+Ⅴ	zre	929
+Ⅵ	zrf	928
+Ⅶ	zrg	927
+Ⅷ	zrh	926
+Ⅸ	zri	925
+Ⅹ	zrj	924
+Ⅺ	zrk	923
+Ⅻ	zrl	922
+⒈	zoa	921
+⒉	zob	920
+⒊	zoc	919
+⒋	zod	918
+⒌	zoe	917
+⒍	zof	916
+⒎	zog	915
+⒏	zoh	914
+⒐	zoi	913
+⒑	zoj	912
+⒒	zok	911
+⒓	zol	910
+⒔	zom	909
+⒕	zon	908
+⒖	zoo	907
+⒗	zop	906
+⒘	zoq	905
+⒙	zor	904
+⒚	zos	903
+⒛	zot	902
+㏄	zucc	892
+㎎	zumg	901
+㎏	zukg	900
+μg	zuug	893
+㏑	zuln	890
+㏒	zulg	889
+㎜	zumm	899
+㎝	zucm	898
+㎞	zukm	897
+㎡	zums	896
+nm	zunm	895
+μm	zuum	894
+㏕	zuml	888
+㏎	zukm	891
+# あ	zpv	100000	#安
+# 𛀂	zpvf	99999
+# 𛀂	zpv	99999
+# 𛀅	zgogn	100000	#恶
+# 𛀅	zgfgn	99999	#惡
+# 𛀃	zep	100000	#爱
+# 𛀃	zepn	99999	#愛
+# 𛀄	bs	100000	#阿
+# 𛀄	bsk	99999
+# い	zc	100000	#以
+# い	znyw	99999
+# 𛀆	zc	99998
+# 𛀆	znyw	99997
+# 𛀇	zwvt	100000	#伊
+# 𛀈	zujn	100000	#意
+# 𛀉	ztqq	100000	#移
+# う	zpgf	100000	#宇
+# 𛀊	zpgf	99999
+# 𛀋	zpgf	99998
+# 𛀌	zdept	100000	#憂
+# 𛀌	zndn	99999	#忧
+# 𛀍	ze	100000	#有
+# 𛀍	zdef	99999
+# 𛀎	zffcu	100000	#雲
+# 𛀎	zfci	50000	#云
+# え	zye	100000	#衣
+# 𛀑	zye	99999
+# 𛀒	zye	99998	
+# 𛀁	zia	100000	#江
+# 𛀏	zecl	100000	#盈
+# 𛀐	zxv	100000	#绿緑
+# 𛀓	zs	100000	#要
+# お	zywu	100000	#於
+# 𛀔	zywu	99999
+# 𛀕	zywu	99998
+# か	zlk	100000	#加
+# 𛀘	zlk	99999
+# 𛀗	zwffg	100000	#佳
+# 𛀗	zwff	50000
+# 𛀙	zsk	100000	#可
+# 𛀚	zsk	99999	
+# 𛀛	zfkuk	100000	#嘉
+# 𛀢	zpe	100000	#家
+# 𛀜	zq	100000	#我
+# 𛀝	zgngw	100000	#欤
+# 𛀝	zvgnw	99999	#歟
+# 𛀞	zlkm	100000	#贺賀
+# 𛀞	zlkmu	99999
+# 𛀟	zusi	100000	#闲閑
+# 𛀠	ztjf	100000	#香
+# 𛀡	zlkc	100000	#驾駕
+# き	zxxaw	100000	#幾
+# き	zmt	99999	#几
+# 𛀤	zxxaw	99998
+# 𛀤	zmt	99997
+# 𛀥	zxxaw	99996
+# 𛀥	zmt	99995
+# 𛀣	zfku	100000	#喜
+# 𛀦	zfc	100000	#支
+# 𛀻	zadwe	100000	#期
+# 𛀧	zssss	100000	#木
+# 𛀨	zpyr	100000	#祈
+# 𛀩	zkhgm	100000	#貴贵
+# 𛀪	zfhn	100000	#起
+# く	zqy	100000	#久
+# 𛀫	zqy	99999
+# 𛀬	zqy	99998
+# 𛀭	zvtn	100000	#九
+# 𛀮	zwaw	100000	#供
+# 𛀯	zwhw	100000	#俱
+# 𛀰	zhw	100000	#具
+# 𛀱	zfiy	100000	#求
+# け	zyf	100000	#计計
+# 𛀶	zyf	99999	
+# 𛀳	zwj	100000	#介
+# 𛀲	zwj	99999
+# 𛀴	zqdm	100000	#希
+# 𛀴	zqdmh	99999	#希
+# 𛀵	zrno	100000	#氣
+# 𛀵	zrnb	50000	#气
+# 𛀷	zkhgp	100000	#遣
+# こ	znngn	100000	#己
+# こ	znnnn	99999	#已
+# 𛀸	zdgh	100000	#古
+# 𛂘	zbb	100000	#子
+# 𛀹	zdt	100000	#故
+# 𛀺	zytf	100000	#許许
+# さ	zda	100000	#左
+# 𛀿	zda	99999	
+# 𛀼	zthf	100000	#乍
+# 𛀽	zwda	100000	#佐
+# 𛀾	zwda	99999
+# 𛁀	zuda	100000	#差
+# 𛁁	zaet	100000	#散
+# 𛁂	zwtuf	100000	#斜
+# 𛁃	ziit	100000	#沙
+# し	zpp	100000	#之
+# 𛁄	zpp	99999	
+# 𛁅	zpp	99998
+# 𛁆	zgk	100000	#事
+# 𛁇	zlh	100000	#四
+# 𛁈	zfn	100000	#志
+# 𛁉	zusr	100000	#新
+# す	zfghy	100000	#寸
+# す	zfyi	99999	
+# 𛁊	zepc	100000	#受
+# 𛁋	zdtf	100000	#寿
+# 𛁋	zfnaf	99999	#壽
+# 𛁌	zovt	100000	#数
+# 𛁍	zovt	99998	
+# 𛁌	zlvt	99999	#數
+# 𛁍	zlvt	99997	
+# 𛁎	zdw	100000	#春
+# 𛁏	zdw	99999	
+# 𛁐	zed	100000	#须須
+# 𛁑	zed	99999
+# せ	zan	100000	#世
+# 𛁒	zan	99999
+# 𛁓	zan	99998
+# 𛁔	zan	99997
+# 𛁕	zrvyl	100000	#势
+# 𛁖	zfnr	50000	#声
+# 𛁖	zfnmb	100000	#聲
+# そ	zul	100000	#曾
+# 𛁙	zul	99999
+# 𛁚	zul	99998
+# 𛁗	zrn	100000	#所
+# 𛁘	zrn	99999	
+# 𛁛	zssn	100000	#楚
+# 𛁜	zaqot	100000	#蘇
+# 𛁜	zalw	99999	#苏
+# 𛁝	zhat	100000	#處
+# 𛁝	zth	99999	#处
+# た	zdy	100000	#太
+# 𛁟	zqq	100000	#多
+# 𛁠	zqq	99999
+# 𛁞	zipkf	100000	#堂
+# 𛁡	zipkl	100000	#當
+# 𛁡	ziv	99999	#当
+# ち	ztd	100000	#知
+# 𛁥	ztd	99999
+# 𛁦	ztd	99998
+# 𛁢	ztfk	100000	#千
+# 𛁣	zf	100000	#地
+# 𛁤	ztdkj	100000	#智
+# 𛁧	zgcft	100000	#致
+# 𛁨	znirp	100000	#遲
+# 𛁨	znyp	99999	#迟
+# つ	zkthh	100000	#川
+# 𛁩	zkthh	99999
+# 𛁪	zkthh	99998
+# 𛁫	zivfh	100000	#津
+# 𛁬	zftjb	100000	#都
+# 𛁭	ztfhy	100000	#徒
+# て	zgd	100000	#天
+# 𛁱	zgd	99999
+# 𛁲	zgd	99998
+# 𛁳	zgd	99997
+# 𛁮	zyps	100000	#亭
+# 𛁯	zwqa	100000	#低
+# 𛁰	zwgjf	100000	#傳
+# 𛁰	zwfny	99999	#传
+# 𛁴	zup	100000	#帝
+# 𛁵	zxgf	100000	#弖
+# 𛂎	zdmj	100000	#而
+# 𛁶	zlgjf	100000	#轉
+# 𛁶	zlfn	99999	#转
+# と	zhh	100000	#止
+# 𛁷	zffff	100000	#土
+# 𛁹	zai	100000	#东
+# 𛁹	zgji	99999	#東
+# 𛁸	zya	100000	#度
+# 𛁺	zwgku	100000	#登
+# 𛁻	zwgku	99999
+# 𛁼	zdqay	100000	#砥
+# 𛁽	ztffu	100000	#等
+# な	zdfi	100000	#奈
+# 𛂀	zdfi	99999
+# 𛂁	zdfi	99998
+# 𛂂	zdfi	99997
+# 𛁾	zfm	100000	#南
+# 𛁿	zqk	100000	#名
+# 𛂃	zaes	100000	#菜
+# 𛂄	zvfb	100000	#那
+# 𛂅	zvfb	99999
+# 𛂆	zakfy	100000	#難
+# 𛂆	zcw	50000	#难
+# に	zwfg	100000	#仁
+# 𛂉	zwfg	99999
+# 𛂇	zmyd	100000	#丹
+# 𛂈	zfg	100000	#二
+# 𛂊	zvqb	100000	#兒
+# 𛂊	zqt	50000	#儿
+# 𛂋	zqiu	100000	#尔
+# 𛂌	zqiu	99999	
+# 𛂋	zgwm	100000	#爾
+# 𛂌	zgwm	99999	
+# 𛂍	zbgh	100000	#耳
+# ぬ	zvcy	100000	#奴
+# 𛂐	zvcy	99999	
+# 𛂏	zvcl	100000	#努
+# 𛂑	zvcn	100000	#怒
+# ね	zpyq	100000	#祢
+# 𛂗	zpygq	100000	#禰
+# 𛂒	zrh	100000	#年
+# 𛂓	zrh	99999	
+# 𛂔	zrh	99999
+# 𛂕	zsve	100000	#根
+# 𛂖	zrvyo	100000	#热
+# 𛂖	zfwfo	100000	#熱
+# の	zetn	100000	#乃
+# 𛂙	zetn	99999
+# 𛂚	zimae	100000	#濃
+# 𛂚	zipe	99999	#浓
+# 𛂛	zce	100000	#能
+# 𛂜	zce	99999	
+# 𛂝	zmade	100000	#農
+# 𛂝	zpei	50000	#农
+# は	zihc	100000	#波
+# 𛂡	zihc	99999	
+# 𛂞	zwty	100000	#八
+# 𛂟	zuf	100000	#半
+# 𛂠	zihcv	100000	#婆
+# 𛂢	zteml	100000	#盤
+# 𛂣	zteml	99999	
+# 𛂢	ztel	50000	#盘
+# 𛂣	ztel	49999	
+# 𛂤	zdhc	100000	#破
+# 𛂥	zftj	100000	#者
+# 𛂦	zftj	99999
+# 𛂧	zaans	100000	#葉
+# 𛂧	zkf	50000	#叶
+# 𛂨	zhcdm	100000	#颇
+# ひ	zxx	100000	#比
+# 𛂫	zxx	99999	
+# 𛂪	zjjjj	100000	#日
+# 𛂩	zdjdn	100000	#悲
+# 𛂭	zdjd	100000	#非
+# 𛂬	znk	100000	#避
+# 𛂮	znutj	100000	#飛
+# 𛂯	znutj	99999	
+# 𛂮	znui	50000	#飞
+# 𛂯	znui	49999
+# ふ	zi	100000	#不
+# 𛂰	zi	99999	#不
+# 𛂱	zvv	50000	#妇
+# 𛂱	zvvph	100000	#婦
+# 𛂲	zdmh	100000	#布
+# へ	zuk	100000	#部
+# 𛂹	zuk	99999
+# 𛂳	zwuk	100000	#倍
+# 𛂴	zumia	100000	#弊
+# 𛂵	zumia	99999
+# 𛂶	zynm	100000	#遍
+# 𛂷	zthpp	100000	#邊
+# 𛂸	zthpp	99999
+# 𛂷	zthpp	50000	#边
+# 𛂸	zthpp	49999
+# ほ	zwk	100000	#保
+# 𛂺	zwk	99999
+# 𛂻	zwk	99998
+# 𛂼	zfufc	100000	#報
+# 𛂼	zrb	50000	#报
+# 𛂽	zdwf	100000	#奉
+# 𛂾	zpgy	50000	#宝
+# 𛂾	zpgr	100000	#寶
+# 𛂿	zsg	100000	#本
+# 𛃀	zsg	99999
+# 𛃁	zdh	50000	#丰
+# 𛃁	zdhdu	100000	#豐
+# ま	zgs	100000	#末
+# 𛃃	zgs	99999
+# 𛃄	zgs	99998
+# 𛃂	zdnv	100000	#万
+# 𛃇	zajmy	100000	#萬
+# 𛃇	zdnv	50000	#万
+# 𛃅	ziamy	100000	#滿
+# 𛃆	ziamy	99999	
+# 𛃅	ziagw	50000	#滿
+# 𛃆	ziagw	49999	
+# 𛃈	zyss	100000	#麻
+# 𛃖	zcgh	100000	#馬
+# 𛃖	zcn	50000	#马
+# み	zugdu	100000	#美
+# 𛃋	zugdu	99999
+# 𛃌	zugdu	99998
+# 𛃍	zugdu	99997
+# 𛃉	zdg	100000	#三
+# 𛃎	zmqb	50000	#见
+# 𛃎	zhqb	100000	#見
+# む	zgah	100000	#武
+# 𛃐	zgah	99999	#武
+# 𛃑	zrlgo	100000	#無
+# 𛃒	zcr	100000	#牟
+# ん	zfq	100000	#无
+# 𛄝	zfq	99999	
+# 𛄞	zfq	99998	
+# め	zvvvv	100000	#女
+# 𛃔	zqkq	100000	#免
+# 𛃕	zdm	100000	#面
+# も	ztfn	100000	#毛
+# 𛃘	ztfn	99999	
+# 𛃙	ztfn	99998
+# 𛃚	ztfn	99997
+# 𛃗	zxyyi	100000	#母
+# 𛃛	zadny	100000	#茂
+# 𛃜	zipke	100000	#裳
+# や	zbn	100000	#也
+# 𛃝	zbn	99999	
+# 𛃞	zbn	99998
+# 𛃟	zngc	100000	#屋
+# 𛃠	zbbh	100000	#耶
+# 𛃡	zbbh	99999
+# 𛃢	zywt	100000	#夜
+# ゆ	zmh	100000	#由
+# 𛃤	zmh	99999
+# 𛃥	zmh	99998
+# 𛃣	ziytb	100000	#游
+# 𛃦	zytbp	100000	#遊
+# よ	zgng	100000	#与
+# 𛃩	zvgnw	50000	#與
+# 𛃪	zvgnw	49999	
+# 𛃫	zvgnw	49998
+# 𛃧	zwa	100000	#代
+# 𛃨	zwtu	100000	#余
+# 𛃩	zvgnw	100000	#與
+# 𛃪	zvgnw	99999	
+# 𛃫	zvgnw	99998
+# 𛃬	zqnwt	100000	#馀
+# 𛃬	zwpwt	100000	#餘
+# ら	zyve	100000	#良
+# 𛃮	zyve	99999
+# 𛃯	zyve	99998
+# 𛃰	zyve	99997
+# 𛃭	zlq	50000	#罗
+# 𛃭	zlxw	100000	#羅
+# り	ztjh	100000	#利
+# 𛃱	ztjh	99999
+# 𛃲	ztjh	99998
+# 𛃳	zsb	100000	#李
+# 𛃴	ztjs	100000	#梨
+# 𛃵	zgj	100000	#理
+# 𛃶	zjfd	100000	#里
+# 𛃷	zyb	100000	#离離
+# る	zqyvl	100000	#留
+# 𛃹	zqyvl	99999
+# 𛃺	zqyvl	99998
+# 𛃻	zqyvl	99997
+# 𛃸	ziyc	100000	#流
+# 𛃼	zlxi	100000	#累
+# 𛃽	zod	100000	#类類
+# れ	zpyn	100000	#礼
+# 𛃿	zpyn	99999
+# 𛃾	zpyn	49998
+# 𛃾	zpymu	100000	#禮
+# 𛄀	zlpd	100000	#连連
+# 𛄁	zgmy	100000	#丽麗
+# ろ	zkk	100000	#吕
+# 𛄂	zkk	99999
+# 𛄃	zkk	99998
+# ろ	zktk	50000	#吕
+# 𛄂	zktk	49999
+# 𛄃	zktk	49998
+# 𛄄	zlvf	100000	#婁
+# 𛄄	zov	50000	#娄
+# 𛄅	zslv	100000	#樓
+# 𛄅	zsov	50000	#楼
+# 𛄆	zkhtk	100000	#路
+# 𛄇	zfkhk	100000	#露
+# わ	zt	100000	#和
+# 𛄉	zt	99999
+# 𛄊	zt	99998
+# 𛄈	zwtv	100000	#倭
+# 𛄋	zgggg	100000	#王
+# 𛄌	zgggg	99999
+# ゐ	zytno	100000	#為
+# 𛄐	zetno	90000	#爲
+# ゐ	zyl	50000	#为
+# 𛄐	zyl	49999	
+# 𛄍	zfjk	100000	#井
+# 𛄎	zfjk	99999
+# 𛄏	znd	100000	#居
+# 𛄑	zkhgp	200000	#遗
+# ゑ	zgjh	100000	#惠
+# 𛄒	zgjh	99999
+# 𛄓	ztnhh	100000	#衛
+# 𛄔	ztnhh	99999
+# 𛄕	ztnhh	99998
+# 𛄓	zbg	50000	#卫
+# 𛄔	zbg	49999
+# 𛄕	zbg	49998
+# を	zfkep	100000	#遠
+# 𛄛	zfkep	99999
+# 𛄜	zfkep	99998
+# を	zfkep	50000	#卫
+# 𛄛	zfkep	49999
+# 𛄜	zfkep	49998
+# 𛄖	ztuh	100000	#乎
+# 𛄗	ztuh	99999
+# 𛄘	zntf	100000	#尾
+# 𛄙	zxft	100000	#绪緒
+# 𛄚	zfha	100000	#越
+あ	zha	739
+ぁ	zhaa	738
+ば	zhba	692
+べ	zhbe	683
+び	zhbi	689
+ぼ	zhbo	680
+ぶ	zhbu	686
+ち	zhch	707
+だ	zhda	708
+で	zhde	701
+ど	zhdo	699
+え	zhe	733
+ぇ	zhee	732
+ゑ	zhwe	659
+ふ	zhfu	687
+が	zhga	728
+げ	zhge	722
+ぎ	zhgi	726
+ご	zhgo	720
+ぐ	zhgu	724
+は	zhha	693
+へ	zhhe	684
+ひ	zhhi	690
+ほ	zhho	681
+い	zhi	737
+ぃ	zhii	736
+ゐ	zhwi	660
+じ	zhji	716
+ぢ	zhji	706
+か	zhka	729
+け	zhke	723
+き	zhki	727
+こ	zhko	721
+く	zhku	725
+ま	zhma	678
+め	zhme	675
+み	zhmi	677
+も	zhmo	674
+む	zhmu	676
+な	zhna	698
+ね	zhne	695
+に	zhni	697
+ん	zhnn	657
+の	zhno	694
+ぬ	zhnu	696
+お	zho	731
+ぉ	zhoo	730
+を	zhwo	658
+ぱ	zhpa	691
+ぺ	zhpe	682
+ぴ	zhpi	688
+ぽ	zhpo	679
+ぷ	zhpu	685
+ら	zhra	667
+れ	zhre	664
+り	zhri	666
+ろ	zhro	663
+る	zhru	665
+さ	zhsa	719
+せ	zhse	713
+し	zhsh	717
+そ	zhso	711
+す	zhsu	715
+た	zhta	709
+て	zhte	702
+と	zhto	700
+つ	zhts	705
+っ	zhts	704
+う	zhu	735
+ぅ	zhuu	734
+わ	zhwa	662
+ゎ	zhwa	661
+や	zhya	673
+ゃ	zhya	672
+よ	zhyo	669
+ょ	zhyo	668
+ゆ	zhyu	671
+ゅ	zhyu	670
+ざ	zhza	718
+ぜ	zhze	712
+ぞ	zhzo	710
+ず	zhzu	714
+づ	zhzu	703
+ア	zka	836
+ァ	zkaa	835
+バ	zkba	789
+ベ	zkbe	780
+ビ	zkbi	786
+ボ	zkbo	777
+ブ	zkbu	783
+チ	zkch	804
+ー	zkch	750
+ザ	zkda	815
+ダ	zkda	805
+デ	zkde	798
+ド	zkdo	796
+エ	zke	830
+ェ	zkee	829
+ガ	zkga	825
+ゲ	zkge	819
+ギ	zkgi	823
+ゴ	zkgo	817
+グ	zkgu	821
+ハ	zkha	790
+ヘ	zkhe	781
+ヒ	zkhi	787
+ホ	zkho	778
+フ	zkhu	784
+イ	zki	834
+ィ	zkii	833
+ジ	zkji	813
+ヂ	zkji	803
+カ	zkka	826
+ヵ	zkka	752
+ケ	zkke	820
+ヶ	zkke	751
+キ	zkki	824
+コ	zkko	818
+ク	zkku	822
+マ	zkma	775
+メ	zkme	772
+ミ	zkmi	774
+モ	zkmo	771
+ム	zkmu	773
+ナ	zkna	795
+ネ	zkne	792
+ニ	zkni	794
+ン	zknn	754
+ノ	zkno	791
+ヌ	zknu	793
+ヽ	zkod	749
+ヾ	zkod	748
+オ	zko	828
+ォ	zkoo	827
+パ	zkpa	788
+ペ	zkpe	779
+ピ	zkpi	785
+ポ	zkpo	776
+プ	zkpu	782
+ラ	zkra	764
+レ	zkre	761
+リ	zkri	763
+ロ	zkro	760
+ル	zkru	762
+サ	zksa	816
+㈠	znba	438
+㈡	znbb	437
+㈢	znbc	436
+㈣	znbd	435
+セ	zkse	810
+㈤	znbe	434
+㈥	znbf	433
+㈦	znbg	432
+シ	zksh	814
+㈧	znbh	431
+㈨	znbi	430
+㈩	znbj	429
+ソ	zkso	808
+ス	zksu	812
+タ	zkta	806
+テ	zkte	799
+ト	zkto	797
+ツ	zkts	802
+ッ	zkts	801
+ウ	zku	832
+ゥ	zkuu	831
+ヴ	zkvu	753
+ヮ	zkwa	759
+ワ	zkwa	758
+ヱ	zkwe	756
+ヰ	zkwi	757
+ヲ	zkwo	755
+ヤ	zkya	770
+ャ	zkya	769
+ヨ	zkyo	766
+ョ	zkyo	765
+ユ	zkyu	768
+ュ	zkyu	767
+ゼ	zkze	809
+ゾ	zkzo	807
+ズ	zkzu	811
+ヅ	zkzu	800
+ⅰ	zra'	481
+ⅱ	zrb'	480
+ⅲ	zrc'	479
+ⅳ	zrd'	478
+ⅴ	zre'	477
+ⅵ	zrf'	476
+ⅶ	zrg'	475
+ⅷ	zrh'	474
+ⅸ	zri'	473
+ⅹ	zrj'	472
+ā	zpaa	612
+á	zpas	611
+ǎ	zpad	610
+à	zpaf	609
+ē	zpea	603
+é	zpes	602
+ě	zped	601
+è	zpef	600
+ê	zpe'	599
+ī	zpia	599
+í	zpis	598
+ǐ	zpid	597
+ì	zpif	596
+ō	zpoa	608
+ó	zpos	607
+ǒ	zpod	606
+ò	zpof	605
+ū	zpua	590
+ú	zpus	589
+ǔ	zpud	588
+ù	zpuf	587
+ǖ	zpva	595
+ǘ	zpvs	594
+ǚ	zpvd	593
+ǜ	zpvf	592
+ü	zpv'	591
+①	zcna	448
+②	zcnb	447
+③	zcnc	446
+④	zcnd	445
+⑤	zcne	444
+⑥	zcnf	443
+⑦	zcng	442
+⑧	zcnh	441
+⑨	zcni	440
+⑩	zcnj	439
+＆	zwda	520
+＠	zwda	519
+＼	zwdb	518
+℃	zwdc	541
+＾	zwdc	517
+°	zwdd	540
+◇	zwdd	529
+◆	zwdd	528
+〓	zwde	522
+□	zwdf	527
+■	zwdf	526
+＃	zwdh	521
+‰	zwdm	539
+♂	zwdn	538
+♀	zwdn	537
+№	zwdn	535
+￣	zwdo	515
+§	zwds	536
+☆	zwds	534
+★	zwds	533
+△	zwdt	525
+▲	zwdt	524
+＿	zwdu	516
+※	zwdx	523
+○	zwdy	532
+●	zwdy	531
+◎	zwdy	530
+Α	zga'	887
+α	zga	471
+Β	zgb'	886
+β	zgb	470
+Δ	zgd'	884
+δ	zgd	468
+Ε	zge'	883
+Η	zge'	881
+ε	zge	467
+η	zge	465
+Φ	zgf'	867
+φ	zgf	451
+Γ	zgg'	885
+γ	zgg	469
+Ι	zgi'	879
+ι	zgi	463
+Κ	zgk'	878
+κ	zgk	462
+Λ	zgl'	877
+λ	zgl	461
+Μ	zgm'	876
+μ	zgm	460
+Ν	zgn'	875
+ν	zgn	459
+Ο	zgo'	873
+Ω	zgo'	864
+ο	zgo	457
+ω	zgo	449
+Π	zgp'	872
+Ψ	zgp'	865
+π	zgp	456
+ψ	zgp	450
+Ρ	zgr'	871
+ρ	zgr	455
+Σ	zgs'	870
+σ	zgs	454
+Θ	zgt'	880
+Τ	zgt'	869
+θ	zgt	454
+τ	zgt	453
+Υ	zgu'	868
+υ	zgu	452
+Ξ	zgx'	874
+Χ	zgx'	866
+ξ	zgx	458
+χ	zgx	450.5
+Ζ	zgz'	882
+ζ	zgz	466
+ㄚ	zza	111404
+ㄞ	zzai	111400
+ㄠ	zzao	111398
+ㄢ	zzan	111396
+ㄤ	zzag	111394
+ㄅ	zzb	111428
+ㄔ	zzch	111413
+ㄘ	zzc	111409
+ㄉ	zzd	111424
+ㄜ	zze	111402
+ㄝ	zzie	111401
+ㄟ	zzei	111399
+ㄣ	zzen	111395
+ㄥ	zzeg	111393
+ㄈ	zzf	111425
+ㄍ	zzg	111420
+ㄏ	zzh	111418
+ㄧ	zzi	111407
+ㄐ	zzj	111417
+ㄎ	zzk	111419
+ㄌ	zzl	111421
+ㄇ	zzm	111426
+ㄋ	zzn	111422
+ㄛ	zzo	111403
+ㄡ	zzou	111397
+ㄆ	zzp	111427
+ㄑ	zzq	111416
+ㄖ	zzr	111411
+ㄦ	zzer	111392
+ㄕ	zzsh	111412
+ㄙ	zzs	111408
+ㄊ	zzt	111423
+ㄨ	zzu	111406
+ㄩ	zzv	111405
+ㄒ	zzx	111415
+ㄓ	zzzh	111414
+ㄗ	zzz	111410
