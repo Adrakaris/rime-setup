@@ -51,7 +51,7 @@ engine:
 
 speller:
   delimiter: " '"
-  max_code_length: 5
+  max_code_length: 4
 
 translator:
   dictionary: wubi86
